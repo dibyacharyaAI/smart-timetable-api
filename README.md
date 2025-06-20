@@ -84,6 +84,21 @@ GET /api/teacher/<TEACHER_ID>
 POST /api/regenerate
 ⚠ Notes
 
+🧪 1. Get Full Timetable
+curl http://127.0.0.1:5001/api/timetable
+🧪 2. Get Timetable for a Specific Section (e.g., SEC01)
+curl http://127.0.0.1:5001/api/timetable/section/SEC01
+🧪 3. Get Timetable for a Specific Day (e.g., 1 = Monday)
+curl http://127.0.0.1:5001/api/timetable/day/1
+🧪 4. Get Teacher Schedule (e.g., Teacher ID = T107)
+curl http://127.0.0.1:5001/api/teacher/T107
+🧪 5. Check System Status
+curl http://127.0.0.1:5001/api/status
+🧪 6. Regenerate Timetable (POST request)
+curl -X POST http://127.0.0.1:5001/api/regenerate
+
+
+
 Streamlit-related warnings like missing ScriptRunContext are harmless in bare execution mode.
 Avoid pushing venv/ or large .dylib files to GitHub – they exceed size limits.
  Maintainer
