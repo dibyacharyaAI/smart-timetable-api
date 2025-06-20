@@ -1,0 +1,20 @@
+SubjectCode,SubjectName,WeeklyHours,Type,Scheme
+A001,T&NM,4,THEORY,A
+A002,Chem,3,THEORY,A
+A003,Eng.,2,THEORY,A
+A004,B. Etc.,2,THEORY,A
+A005,E.Mech,2,THEORY,A
+A006,BEE,2,THEORY,A
+A007,  BEtc ./E.Mech. Lab,1,LAB,A
+A008,Engg. Lab,1,LAB,A
+A009,Workshop,1,LAB,A
+A010,SY,1,LAB,A
+A011,Comm. Lab,1,LAB,A
+A012,Chem. Lab,1,LAB,A
+B001,T&NM,4,THEORY,B
+B002,Phy.,3,THEORY,B
+B003,Sc.LS.,2,THEORY,B
+B004,EVS,2,THEORY,B
+B005, Phy. Lab,1,LAB,B
+B006,ED&Graphics.,1,LAB,B
+B007,PL(T) & Prog. Lab,2,LAB,B

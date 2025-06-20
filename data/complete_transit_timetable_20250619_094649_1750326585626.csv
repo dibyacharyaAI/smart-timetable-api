@@ -1,0 +1,1657 @@
+Section,Day,Time,TimeSlot,Subject,SubjectName,Teacher,TeacherName,Room,RoomType,ActivityType,Scheme,WeeklyHours,BlockLocation
+SEC01,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC01,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC01,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC01,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC01,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC01,Mon,10:11,Mon_10_11,A008,"Engg. Lab",T104,"Prof_E",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC01,Mon,11:12,Mon_11_12,A001,"T&NM",T112,"Prof_M",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC01,Mon,12:01,Mon_12_01,A003,"Eng.",T107,"Prof_H",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Mon,02:03,Mon_02_03,A012,"Chem. Lab",T117,"Prof_R",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC01,Mon,03:04,Mon_03_04,A002,"Chem",T100,"Prof_A",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC01,Tue,10:11,Tue_10_11,A001,"T&NM",T112,"Prof_M",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC01,Tue,11:12,Tue_11_12,A009,"Workshop",T123,"Prof_X",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC01,Tue,12:01,Tue_12_01,A001,"T&NM",T128,"Prof_BC",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC01,Tue,02:03,Tue_02_03,A011,"Comm. Lab",T127,"Prof_BB",Block-B-Lab-09,Lab,LAB,A,1,b-wl-lab
+SEC01,Tue,03:04,Tue_03_04,A006,"BEE",T102,"Prof_C",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Wed,10:11,Wed_10_11,A005,"E.Mech",T144,"Prof_BS",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Wed,11:12,Wed_11_12,A004,"B. Etc.",T109,"Prof_J",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Wed,12:01,Wed_12_01,A002,"Chem",T101,"Prof_B",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC01,Wed,02:03,Wed_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC01,Wed,03:04,Wed_03_04,A002,"Chem",T106,"Prof_G",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC01,Thu,10:11,Thu_10_11,A003,"Eng.",T103,"Prof_D",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Thu,11:12,Thu_11_12,A006,"BEE",T111,"Prof_L",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Thu,12:01,Thu_12_01,A010,"SY",T100,"Prof_A",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC01,Thu,02:03,Thu_02_03,A004,"B. Etc.",T106,"Prof_G",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Thu,03:04,Thu_03_04,A005,"E.Mech",T107,"Prof_H",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC01,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T100,"Prof_A",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC02,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC02,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC02,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC02,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC02,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC02,Mon,10:11,Mon_10_11,A006,"BEE",T112,"Prof_M",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Mon,11:12,Mon_11_12,A001,"T&NM",T130,"Prof_BE",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC02,Mon,12:01,Mon_12_01,A002,"Chem",T105,"Prof_F",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC02,Mon,02:03,Mon_02_03,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Mon,03:04,Mon_03_04,A005,"E.Mech",T104,"Prof_E",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Tue,10:11,Tue_10_11,A002,"Chem",T105,"Prof_F",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC02,Tue,11:12,Tue_11_12,A003,"Eng.",T101,"Prof_B",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Tue,12:01,Tue_12_01,A001,"T&NM",T162,"Prof_CK",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC02,Tue,02:03,Tue_02_03,A004,"B. Etc.",T128,"Prof_BC",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Tue,03:04,Tue_03_04,A012,"Chem. Lab",T122,"Prof_W",Block-C-Lab-10,Lab,LAB,A,1,c-wl-lab
+SEC02,Wed,10:11,Wed_10_11,A008,"Engg. Lab",T159,"Prof_CH",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC02,Wed,11:12,Wed_11_12,A002,"Chem",T121,"Prof_V",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC02,Wed,12:01,Wed_12_01,A001,"T&NM",T112,"Prof_M",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC02,Wed,02:03,Wed_02_03,A001,"T&NM",T112,"Prof_M",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC02,Wed,03:04,Wed_03_04,A003,"Eng.",T102,"Prof_C",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Thu,10:11,Thu_10_11,A010,"SY",T107,"Prof_H",Block-C-Lab-06,Lab,LAB,A,1,c-wl-lab
+SEC02,Thu,11:12,Thu_11_12,A009,"Workshop",T108,"Prof_I",Block-C-Lab-07,Lab,LAB,A,1,c-wl-lab
+SEC02,Thu,12:01,Thu_12_01,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC02,Thu,02:03,Thu_02_03,A011,"Comm. Lab",T103,"Prof_D",Block-C-Lab-09,Lab,LAB,A,1,c-wl-lab
+SEC02,Thu,03:04,Thu_03_04,A007,"  BEtc ./E.Mech. Lab",T121,"Prof_V",Block-C-Lab-10,Lab,LAB,A,1,c-wl-lab
+SEC02,Fri,10:11,Fri_10_11,A006,"BEE",T113,"Prof_N",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC03,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC03,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC03,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC03,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC03,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC03,Mon,10:11,Mon_10_11,A001,"T&NM",T126,"Prof_BA",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC03,Mon,11:12,Mon_11_12,A010,"SY",T100,"Prof_A",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Mon,12:01,Mon_12_01,A011,"Comm. Lab",T134,"Prof_BI",Block-LAB-Lab-03,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Mon,02:03,Mon_02_03,A002,"Chem",T127,"Prof_BB",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC03,Mon,03:04,Mon_03_04,A006,"BEE",T102,"Prof_C",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Tue,10:11,Tue_10_11,A002,"Chem",T106,"Prof_G",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC03,Tue,11:12,Tue_11_12,A006,"BEE",T111,"Prof_L",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Tue,12:01,Tue_12_01,A004,"B. Etc.",T106,"Prof_G",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Tue,02:03,Tue_02_03,A002,"Chem",T129,"Prof_BD",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC03,Tue,03:04,Tue_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC03,Wed,10:11,Wed_10_11,A012,"Chem. Lab",T103,"Prof_D",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Wed,11:12,Wed_11_12,A003,"Eng.",T131,"Prof_BF",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Wed,12:01,Wed_12_01,A001,"T&NM",T129,"Prof_BD",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC03,Wed,02:03,Wed_02_03,A008,"Engg. Lab",T116,"Prof_Q",Block-LAB-Lab-04,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Wed,03:04,Wed_03_04,A005,"E.Mech",T146,"Prof_BU",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Thu,10:11,Thu_10_11,A005,"E.Mech",T131,"Prof_BF",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Thu,11:12,Thu_11_12,A001,"T&NM",T126,"Prof_BA",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC03,Thu,12:01,Thu_12_01,A004,"B. Etc.",T109,"Prof_J",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC03,Thu,02:03,Thu_02_03,A007,"  BEtc ./E.Mech. Lab",T109,"Prof_J",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Thu,03:04,Thu_03_04,A009,"Workshop",T137,"Prof_BL",Block-LAB-Lab-10,Lab,LAB,A,1,lab-cam-3-lab
+SEC03,Fri,10:11,Fri_10_11,A003,"Eng.",T101,"Prof_B",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC04,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC04,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC04,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC04,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC04,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC04,Mon,10:11,Mon_10_11,A010,"SY",T101,"Prof_B",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC04,Mon,11:12,Mon_11_12,A002,"Chem",T106,"Prof_G",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC04,Mon,12:01,Mon_12_01,A011,"Comm. Lab",T180,"Prof_DC",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC04,Mon,02:03,Mon_02_03,A001,"T&NM",T128,"Prof_BC",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC04,Mon,03:04,Mon_03_04,A006,"BEE",T113,"Prof_N",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Tue,10:11,Tue_10_11,A012,"Chem. Lab",T103,"Prof_D",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC04,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",T100,"Prof_A",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC04,Tue,12:01,Tue_12_01,A004,"B. Etc.",T136,"Prof_BK",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Tue,02:03,Tue_02_03,A002,"Chem",T136,"Prof_BK",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC04,Tue,03:04,Tue_03_04,A005,"E.Mech",T104,"Prof_E",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Wed,10:11,Wed_10_11,A003,"Eng.",T101,"Prof_B",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Wed,11:12,Wed_11_12,A002,"Chem",T129,"Prof_BD",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC04,Wed,12:01,Wed_12_01,A001,"T&NM",T161,"Prof_CJ",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC04,Wed,02:03,Wed_02_03,A006,"BEE",T102,"Prof_C",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Wed,03:04,Wed_03_04,A005,"E.Mech",T148,"Prof_BW",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Thu,10:11,Thu_10_11,A009,"Workshop",T108,"Prof_I",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC04,Thu,11:12,Thu_11_12,A003,"Eng.",T107,"Prof_H",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC04,Thu,12:01,Thu_12_01,A001,"T&NM",T117,"Prof_R",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC04,Thu,02:03,Thu_02_03,A008,"Engg. Lab",T116,"Prof_Q",Block-A-Lab-09,Lab,LAB,A,1,a-dl-lab
+SEC04,Thu,03:04,Thu_03_04,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC04,Fri,10:11,Fri_10_11,A004,"B. Etc.",T115,"Prof_P",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC05,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC05,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC05,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC05,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC05,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC05,Mon,10:11,Mon_10_11,A010,"SY",T118,"Prof_S",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC05,Mon,11:12,Mon_11_12,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Mon,12:01,Mon_12_01,A002,"Chem",T106,"Prof_G",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC05,Mon,02:03,Mon_02_03,A007,"  BEtc ./E.Mech. Lab",T125,"Prof_Z",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC05,Mon,03:04,Mon_03_04,A005,"E.Mech",T141,"Prof_BP",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Tue,10:11,Tue_10_11,A012,"Chem. Lab",T130,"Prof_BE",Block-B-Lab-06,Lab,LAB,A,1,b-wl-lab
+SEC05,Tue,11:12,Tue_11_12,A006,"BEE",T113,"Prof_N",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Tue,12:01,Tue_12_01,A008,"Engg. Lab",T104,"Prof_E",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC05,Tue,02:03,Tue_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC05,Tue,03:04,Tue_03_04,A003,"Eng.",T124,"Prof_Y",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Wed,10:11,Wed_10_11,A003,"Eng.",T146,"Prof_BU",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Wed,11:12,Wed_11_12,A009,"Workshop",T104,"Prof_E",Block-B-Lab-02,Lab,LAB,A,1,b-wl-lab
+SEC05,Wed,12:01,Wed_12_01,A001,"T&NM",T175,"Prof_CX",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC05,Wed,02:03,Wed_02_03,A002,"Chem",T101,"Prof_B",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC05,Wed,03:04,Wed_03_04,A001,"T&NM",T117,"Prof_R",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC05,Thu,10:11,Thu_10_11,A006,"BEE",T112,"Prof_M",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Thu,11:12,Thu_11_12,A011,"Comm. Lab",T148,"Prof_BW",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC05,Thu,12:01,Thu_12_01,A004,"B. Etc.",T115,"Prof_P",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Thu,02:03,Thu_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC05,Thu,03:04,Thu_03_04,A005,"E.Mech",T131,"Prof_BF",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC05,Fri,10:11,Fri_10_11,A002,"Chem",T105,"Prof_F",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC06,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC06,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC06,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC06,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC06,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC06,Mon,10:11,Mon_10_11,A001,"T&NM",T128,"Prof_BC",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC06,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC06,Mon,12:01,Mon_12_01,A001,"T&NM",T117,"Prof_R",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC06,Mon,02:03,Mon_02_03,A011,"Comm. Lab",T111,"Prof_L",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC06,Mon,03:04,Mon_03_04,A004,"B. Etc.",T136,"Prof_BK",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Tue,10:11,Tue_10_11,A003,"Eng.",T114,"Prof_O",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Tue,11:12,Tue_11_12,A006,"BEE",T132,"Prof_BG",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Tue,12:01,Tue_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC06,Tue,02:03,Tue_02_03,A005,"E.Mech",T131,"Prof_BF",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Tue,03:04,Tue_03_04,A002,"Chem",T106,"Prof_G",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC06,Wed,10:11,Wed_10_11,A012,"Chem. Lab",T115,"Prof_P",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC06,Wed,11:12,Wed_11_12,A006,"BEE",T113,"Prof_N",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Wed,12:01,Wed_12_01,A002,"Chem",T106,"Prof_G",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC06,Wed,02:03,Wed_02_03,A007,"  BEtc ./E.Mech. Lab",T122,"Prof_W",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC06,Wed,03:04,Wed_03_04,A003,"Eng.",T170,"Prof_CS",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Thu,10:11,Thu_10_11,A004,"B. Etc.",T115,"Prof_P",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Thu,11:12,Thu_11_12,A001,"T&NM",T129,"Prof_BD",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC06,Thu,12:01,Thu_12_01,A009,"Workshop",T123,"Prof_X",Block-C-Lab-08,Lab,LAB,A,1,c-wl-lab
+SEC06,Thu,02:03,Thu_02_03,A005,"E.Mech",T107,"Prof_H",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC06,Thu,03:04,Thu_03_04,A010,"SY",T118,"Prof_S",Block-C-Lab-10,Lab,LAB,A,1,c-wl-lab
+SEC06,Fri,10:11,Fri_10_11,A001,"T&NM",T129,"Prof_BD",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC07,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC07,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC07,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC07,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC07,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC07,Mon,10:11,Mon_10_11,A010,"SY",T135,"Prof_BJ",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC07,Mon,11:12,Mon_11_12,A006,"BEE",T120,"Prof_U",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Mon,12:01,Mon_12_01,A002,"Chem",T123,"Prof_X",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC07,Mon,02:03,Mon_02_03,A002,"Chem",T135,"Prof_BJ",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC07,Mon,03:04,Mon_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC07,Tue,10:11,Tue_10_11,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Tue,11:12,Tue_11_12,A001,"T&NM",T126,"Prof_BA",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC07,Tue,12:01,Tue_12_01,A005,"E.Mech",T141,"Prof_BP",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Tue,02:03,Tue_02_03,A001,"T&NM",T130,"Prof_BE",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC07,Tue,03:04,Tue_03_04,A012,"Chem. Lab",T173,"Prof_CV",Block-LAB-Lab-10,Lab,LAB,A,1,lab-cam-3-lab
+SEC07,Wed,10:11,Wed_10_11,A011,"Comm. Lab",T112,"Prof_M",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC07,Wed,11:12,Wed_11_12,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Wed,12:01,Wed_12_01,A009,"Workshop",T104,"Prof_E",Block-LAB-Lab-03,Lab,LAB,A,1,lab-cam-3-lab
+SEC07,Wed,02:03,Wed_02_03,A002,"Chem",T105,"Prof_F",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC07,Wed,03:04,Wed_03_04,A003,"Eng.",T171,"Prof_CT",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Thu,10:11,Thu_10_11,A001,"T&NM",T117,"Prof_R",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC07,Thu,11:12,Thu_11_12,A003,"Eng.",T131,"Prof_BF",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Thu,12:01,Thu_12_01,A006,"BEE",T132,"Prof_BG",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Thu,02:03,Thu_02_03,A008,"Engg. Lab",T162,"Prof_CK",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC07,Thu,03:04,Thu_03_04,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC07,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T122,"Prof_W",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC08,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC08,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC08,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC08,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC08,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC08,Mon,10:11,Mon_10_11,A003,"Eng.",T114,"Prof_O",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T116,"Prof_Q",Block-A-Lab-02,Lab,LAB,A,1,a-dl-lab
+SEC08,Mon,12:01,Mon_12_01,A012,"Chem. Lab",T130,"Prof_BE",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC08,Mon,02:03,Mon_02_03,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC08,Mon,03:04,Mon_03_04,A003,"Eng.",T114,"Prof_O",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Tue,10:11,Tue_10_11,A004,"B. Etc.",T127,"Prof_BB",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Tue,11:12,Tue_11_12,A005,"E.Mech",T107,"Prof_H",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Tue,12:01,Tue_12_01,A002,"Chem",T101,"Prof_B",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC08,Tue,02:03,Tue_02_03,A010,"SY",T100,"Prof_A",Block-A-Lab-09,Lab,LAB,A,1,a-dl-lab
+SEC08,Tue,03:04,Tue_03_04,A007,"  BEtc ./E.Mech. Lab",T126,"Prof_BA",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC08,Wed,10:11,Wed_10_11,A001,"T&NM",T128,"Prof_BC",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC08,Wed,11:12,Wed_11_12,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Wed,12:01,Wed_12_01,A011,"Comm. Lab",T103,"Prof_D",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC08,Wed,02:03,Wed_02_03,A001,"T&NM",T130,"Prof_BE",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC08,Wed,03:04,Wed_03_04,A001,"T&NM",T161,"Prof_CJ",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC08,Thu,10:11,Thu_10_11,A006,"BEE",T120,"Prof_U",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Thu,11:12,Thu_11_12,A002,"Chem",T105,"Prof_F",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC08,Thu,12:01,Thu_12_01,A004,"B. Etc.",T166,"Prof_CO",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Thu,02:03,Thu_02_03,A009,"Workshop",T137,"Prof_BL",Block-A-Lab-09,Lab,LAB,A,1,a-dl-lab
+SEC08,Thu,03:04,Thu_03_04,A006,"BEE",T111,"Prof_L",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC08,Fri,10:11,Fri_10_11,A002,"Chem",T134,"Prof_BI",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC09,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC09,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC09,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC09,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC09,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC09,Mon,10:11,Mon_10_11,A006,"BEE",T120,"Prof_U",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Mon,11:12,Mon_11_12,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC09,Mon,12:01,Mon_12_01,A004,"B. Etc.",T128,"Prof_BC",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Mon,02:03,Mon_02_03,A005,"E.Mech",T156,"Prof_CE",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Mon,03:04,Mon_03_04,A010,"SY",T117,"Prof_R",Block-B-Lab-05,Lab,LAB,A,1,b-wl-lab
+SEC09,Tue,10:11,Tue_10_11,A003,"Eng.",T163,"Prof_CL",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Tue,11:12,Tue_11_12,A001,"T&NM",T128,"Prof_BC",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC09,Tue,12:01,Tue_12_01,A001,"T&NM",T175,"Prof_CX",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC09,Tue,02:03,Tue_02_03,A003,"Eng.",T124,"Prof_Y",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Tue,03:04,Tue_03_04,A002,"Chem",T123,"Prof_X",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC09,Wed,10:11,Wed_10_11,A002,"Chem",T145,"Prof_BT",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC09,Wed,11:12,Wed_11_12,A009,"Workshop",T140,"Prof_BO",Block-B-Lab-02,Lab,LAB,A,1,b-wl-lab
+SEC09,Wed,12:01,Wed_12_01,A012,"Chem. Lab",T115,"Prof_P",Block-B-Lab-03,Lab,LAB,A,1,b-wl-lab
+SEC09,Wed,02:03,Wed_02_03,A005,"E.Mech",T141,"Prof_BP",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Wed,03:04,Wed_03_04,A007,"  BEtc ./E.Mech. Lab",T121,"Prof_V",Block-B-Lab-05,Lab,LAB,A,1,b-wl-lab
+SEC09,Thu,10:11,Thu_10_11,A001,"T&NM",T128,"Prof_BC",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC09,Thu,11:12,Thu_11_12,A002,"Chem",T121,"Prof_V",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC09,Thu,12:01,Thu_12_01,A011,"Comm. Lab",T134,"Prof_BI",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC09,Thu,02:03,Thu_02_03,A004,"B. Etc.",T136,"Prof_BK",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC09,Thu,03:04,Thu_03_04,A008,"Engg. Lab",T113,"Prof_N",Block-B-Lab-10,Lab,LAB,A,1,b-wl-lab
+SEC09,Fri,10:11,Fri_10_11,A006,"BEE",T132,"Prof_BG",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC10,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC10,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC10,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC10,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC10,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC10,Mon,10:11,Mon_10_11,A001,"T&NM",T161,"Prof_CJ",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC10,Mon,11:12,Mon_11_12,A001,"T&NM",T143,"Prof_BR",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC10,Mon,12:01,Mon_12_01,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Mon,02:03,Mon_02_03,A007,"  BEtc ./E.Mech. Lab",T147,"Prof_BV",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC10,Mon,03:04,Mon_03_04,A012,"Chem. Lab",T105,"Prof_F",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC10,Tue,10:11,Tue_10_11,A001,"T&NM",T129,"Prof_BD",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC10,Tue,11:12,Tue_11_12,A002,"Chem",T190,"Prof_DM",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC10,Tue,12:01,Tue_12_01,A003,"Eng.",T103,"Prof_D",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Tue,02:03,Tue_02_03,A002,"Chem",T145,"Prof_BT",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC10,Tue,03:04,Tue_03_04,A006,"BEE",T111,"Prof_L",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Wed,10:11,Wed_10_11,A008,"Engg. Lab",T166,"Prof_CO",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC10,Wed,11:12,Wed_11_12,A009,"Workshop",T147,"Prof_BV",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC10,Wed,12:01,Wed_12_01,A010,"SY",T107,"Prof_H",Block-C-Lab-03,Lab,LAB,A,1,c-wl-lab
+SEC10,Wed,02:03,Wed_02_03,A002,"Chem",T127,"Prof_BB",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC10,Wed,03:04,Wed_03_04,A011,"Comm. Lab",T103,"Prof_D",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC10,Thu,10:11,Thu_10_11,A001,"T&NM",T129,"Prof_BD",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC10,Thu,11:12,Thu_11_12,A006,"BEE",T113,"Prof_N",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Thu,12:01,Thu_12_01,A004,"B. Etc.",T189,"Prof_DL",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Thu,02:03,Thu_02_03,A003,"Eng.",T114,"Prof_O",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Thu,03:04,Thu_03_04,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC10,Fri,10:11,Fri_10_11,A005,"E.Mech",T168,"Prof_CQ",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC11,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC11,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC11,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC11,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC11,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC11,Mon,10:11,Mon_10_11,A002,"Chem",T127,"Prof_BB",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC11,Mon,11:12,Mon_11_12,A006,"BEE",T138,"Prof_BM",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Mon,12:01,Mon_12_01,A001,"T&NM",T126,"Prof_BA",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC11,Mon,02:03,Mon_02_03,A003,"Eng.",T102,"Prof_C",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Mon,03:04,Mon_03_04,A011,"Comm. Lab",T134,"Prof_BI",Block-LAB-Lab-05,Lab,LAB,A,1,lab-cam-3-lab
+SEC11,Tue,10:11,Tue_10_11,A005,"E.Mech",T144,"Prof_BS",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Tue,11:12,Tue_11_12,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Tue,12:01,Tue_12_01,A002,"Chem",T105,"Prof_F",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC11,Tue,02:03,Tue_02_03,A003,"Eng.",T171,"Prof_CT",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Tue,03:04,Tue_03_04,A001,"T&NM",T112,"Prof_M",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC11,Wed,10:11,Wed_10_11,A008,"Engg. Lab",T104,"Prof_E",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC11,Wed,11:12,Wed_11_12,A007,"  BEtc ./E.Mech. Lab",T122,"Prof_W",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC11,Wed,12:01,Wed_12_01,A001,"T&NM",T185,"Prof_DH",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC11,Wed,02:03,Wed_02_03,A002,"Chem",T174,"Prof_CW",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC11,Wed,03:04,Wed_03_04,A012,"Chem. Lab",T122,"Prof_W",Block-LAB-Lab-05,Lab,LAB,A,1,lab-cam-3-lab
+SEC11,Thu,10:11,Thu_10_11,A006,"BEE",T136,"Prof_BK",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Thu,11:12,Thu_11_12,A004,"B. Etc.",T171,"Prof_CT",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Thu,12:01,Thu_12_01,A004,"B. Etc.",T195,"Prof_DR",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC11,Thu,02:03,Thu_02_03,A009,"Workshop",T139,"Prof_BN",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC11,Thu,03:04,Thu_03_04,A001,"T&NM",T157,"Prof_CF",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC11,Fri,10:11,Fri_10_11,A010,"SY",T118,"Prof_S",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC12,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC12,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC12,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC12,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC12,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC12,Mon,10:11,Mon_10_11,A004,"B. Etc.",T115,"Prof_P",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Mon,11:12,Mon_11_12,A005,"E.Mech",T107,"Prof_H",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Mon,12:01,Mon_12_01,A008,"Engg. Lab",T116,"Prof_Q",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC12,Mon,02:03,Mon_02_03,A001,"T&NM",T143,"Prof_BR",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC12,Mon,03:04,Mon_03_04,A003,"Eng.",T171,"Prof_CT",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Tue,10:11,Tue_10_11,A011,"Comm. Lab",T180,"Prof_DC",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC12,Tue,11:12,Tue_11_12,A003,"Eng.",T114,"Prof_O",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Tue,12:01,Tue_12_01,A001,"T&NM",T181,"Prof_DD",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC12,Tue,02:03,Tue_02_03,A002,"Chem",T150,"Prof_BY",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC12,Tue,03:04,Tue_03_04,A009,"Workshop",T142,"Prof_BQ",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC12,Wed,10:11,Wed_10_11,A012,"Chem. Lab",T122,"Prof_W",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC12,Wed,11:12,Wed_11_12,A005,"E.Mech",T168,"Prof_CQ",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Wed,12:01,Wed_12_01,A001,"T&NM",T192,"Prof_DO",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC12,Wed,02:03,Wed_02_03,A002,"Chem",T187,"Prof_DJ",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC12,Wed,03:04,Wed_03_04,A006,"BEE",T113,"Prof_N",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Thu,10:11,Thu_10_11,A010,"SY",T164,"Prof_CM",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC12,Thu,11:12,Thu_11_12,A006,"BEE",T138,"Prof_BM",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Thu,12:01,Thu_12_01,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC12,Thu,02:03,Thu_02_03,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC12,Thu,03:04,Thu_03_04,A007,"  BEtc ./E.Mech. Lab",T144,"Prof_BS",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC12,Fri,10:11,Fri_10_11,A002,"Chem",T152,"Prof_CA",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC13,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC13,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC13,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC13,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC13,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC13,Mon,10:11,Mon_10_11,A005,"E.Mech",T141,"Prof_BP",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Mon,11:12,Mon_11_12,A007,"  BEtc ./E.Mech. Lab",T121,"Prof_V",Block-B-Lab-02,Lab,LAB,A,1,b-wl-lab
+SEC13,Mon,12:01,Mon_12_01,A006,"BEE",T138,"Prof_BM",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Mon,02:03,Mon_02_03,A006,"BEE",T113,"Prof_N",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Mon,03:04,Mon_03_04,A011,"Comm. Lab",T149,"Prof_BX",Block-B-Lab-05,Lab,LAB,A,1,b-wl-lab
+SEC13,Tue,10:11,Tue_10_11,A004,"B. Etc.",T136,"Prof_BK",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Tue,11:12,Tue_11_12,A008,"Engg. Lab",T116,"Prof_Q",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC13,Tue,12:01,Tue_12_01,A004,"B. Etc.",T159,"Prof_CH",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Tue,02:03,Tue_02_03,A002,"Chem",T100,"Prof_A",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC13,Tue,03:04,Tue_03_04,A009,"Workshop",T145,"Prof_BT",Block-B-Lab-10,Lab,LAB,A,1,b-wl-lab
+SEC13,Wed,10:11,Wed_10_11,A002,"Chem",T187,"Prof_DJ",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC13,Wed,11:12,Wed_11_12,A001,"T&NM",T126,"Prof_BA",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC13,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC13,Wed,02:03,Wed_02_03,A010,"SY",T118,"Prof_S",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC13,Wed,03:04,Wed_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Thu,10:11,Thu_10_11,A003,"Eng.",T170,"Prof_CS",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC13,Thu,11:12,Thu_11_12,A012,"Chem. Lab",T130,"Prof_BE",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC13,Thu,12:01,Thu_12_01,A001,"T&NM",T143,"Prof_BR",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC13,Thu,02:03,Thu_02_03,A001,"T&NM",T117,"Prof_R",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC13,Thu,03:04,Thu_03_04,A002,"Chem",T187,"Prof_DJ",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC13,Fri,10:11,Fri_10_11,A005,"E.Mech",T104,"Prof_E",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC14,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC14,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC14,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC14,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC14,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC14,Mon,10:11,Mon_10_11,A001,"T&NM",T162,"Prof_CK",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC14,Mon,11:12,Mon_11_12,A002,"Chem",T134,"Prof_BI",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC14,Mon,12:01,Mon_12_01,A002,"Chem",T145,"Prof_BT",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC14,Mon,02:03,Mon_02_03,A006,"BEE",T132,"Prof_BG",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Mon,03:04,Mon_03_04,A005,"E.Mech",T156,"Prof_CE",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Tue,10:11,Tue_10_11,A003,"Eng.",T170,"Prof_CS",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Tue,11:12,Tue_11_12,A004,"B. Etc.",T109,"Prof_J",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Tue,12:01,Tue_12_01,A005,"E.Mech",T145,"Prof_BT",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Tue,02:03,Tue_02_03,A006,"BEE",T158,"Prof_CG",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Tue,03:04,Tue_03_04,A011,"Comm. Lab",T134,"Prof_BI",Block-C-Lab-10,Lab,LAB,A,1,c-wl-lab
+SEC14,Wed,10:11,Wed_10_11,A009,"Workshop",T137,"Prof_BL",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC14,Wed,11:12,Wed_11_12,A002,"Chem",T135,"Prof_BJ",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC14,Wed,12:01,Wed_12_01,A004,"B. Etc.",T109,"Prof_J",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Wed,02:03,Wed_02_03,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC14,Wed,03:04,Wed_03_04,A012,"Chem. Lab",T139,"Prof_BN",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC14,Thu,10:11,Thu_10_11,A001,"T&NM",T130,"Prof_BE",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC14,Thu,11:12,Thu_11_12,A010,"SY",T118,"Prof_S",Block-C-Lab-07,Lab,LAB,A,1,c-wl-lab
+SEC14,Thu,12:01,Thu_12_01,A001,"T&NM",T153,"Prof_CB",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC14,Thu,02:03,Thu_02_03,A003,"Eng.",T131,"Prof_BF",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC14,Thu,03:04,Thu_03_04,A008,"Engg. Lab",T116,"Prof_Q",Block-C-Lab-10,Lab,LAB,A,1,c-wl-lab
+SEC14,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T151,"Prof_BZ",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC15,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC15,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC15,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC15,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC15,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC15,Mon,10:11,Mon_10_11,A004,"B. Etc.",T159,"Prof_CH",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T174,"Prof_CW",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC15,Mon,12:01,Mon_12_01,A001,"T&NM",T142,"Prof_BQ",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC15,Mon,02:03,Mon_02_03,A011,"Comm. Lab",T154,"Prof_CC",Block-LAB-Lab-04,Lab,LAB,A,1,lab-cam-3-lab
+SEC15,Mon,03:04,Mon_03_04,A006,"BEE",T180,"Prof_DC",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Tue,10:11,Tue_10_11,A010,"SY",T132,"Prof_BG",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC15,Tue,11:12,Tue_11_12,A002,"Chem",T100,"Prof_A",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC15,Tue,12:01,Tue_12_01,A009,"Workshop",T124,"Prof_Y",Block-LAB-Lab-08,Lab,LAB,A,1,lab-cam-3-lab
+SEC15,Tue,02:03,Tue_02_03,A012,"Chem. Lab",T139,"Prof_BN",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC15,Tue,03:04,Tue_03_04,A001,"T&NM",T128,"Prof_BC",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC15,Wed,10:11,Wed_10_11,A004,"B. Etc.",T109,"Prof_J",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Wed,11:12,Wed_11_12,A001,"T&NM",T143,"Prof_BR",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC15,Wed,12:01,Wed_12_01,A005,"E.Mech",T133,"Prof_BH",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Wed,02:03,Wed_02_03,A006,"BEE",T138,"Prof_BM",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Wed,03:04,Wed_03_04,A002,"Chem",T123,"Prof_X",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC15,Thu,10:11,Thu_10_11,A003,"Eng.",T183,"Prof_DF",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Thu,11:12,Thu_11_12,A001,"T&NM",T158,"Prof_CG",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC15,Thu,12:01,Thu_12_01,A005,"E.Mech",T107,"Prof_H",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Thu,02:03,Thu_02_03,A003,"Eng.",T167,"Prof_CP",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC15,Thu,03:04,Thu_03_04,A002,"Chem",T190,"Prof_DM",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC15,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T196,"Prof_DS",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC16,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC16,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC16,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC16,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC16,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC16,Mon,10:11,Mon_10_11,A002,"Chem",T145,"Prof_BT",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC16,Mon,11:12,Mon_11_12,A006,"BEE",T141,"Prof_BP",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Mon,12:01,Mon_12_01,A011,"Comm. Lab",T197,"Prof_DT",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC16,Mon,02:03,Mon_02_03,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Mon,03:04,Mon_03_04,A001,"T&NM",T126,"Prof_BA",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC16,Tue,10:11,Tue_10_11,A001,"T&NM",T143,"Prof_BR",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC16,Tue,11:12,Tue_11_12,A006,"BEE",T138,"Prof_BM",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Tue,12:01,Tue_12_01,A002,"Chem",T134,"Prof_BI",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC16,Tue,02:03,Tue_02_03,A009,"Workshop",T110,"Prof_K",Block-A-Lab-09,Lab,LAB,A,1,a-dl-lab
+SEC16,Tue,03:04,Tue_03_04,A002,"Chem",T135,"Prof_BJ",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC16,Wed,10:11,Wed_10_11,A005,"E.Mech",T104,"Prof_E",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Wed,11:12,Wed_11_12,A008,"Engg. Lab",T166,"Prof_CO",Block-A-Lab-02,Lab,LAB,A,1,a-dl-lab
+SEC16,Wed,12:01,Wed_12_01,A003,"Eng.",T114,"Prof_O",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Wed,02:03,Wed_02_03,A012,"Chem. Lab",T156,"Prof_CE",Block-A-Lab-04,Lab,LAB,A,1,a-dl-lab
+SEC16,Wed,03:04,Wed_03_04,A001,"T&NM",T175,"Prof_CX",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC16,Thu,10:11,Thu_10_11,A007,"  BEtc ./E.Mech. Lab",T125,"Prof_Z",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC16,Thu,11:12,Thu_11_12,A001,"T&NM",T179,"Prof_DB",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC16,Thu,12:01,Thu_12_01,A003,"Eng.",T146,"Prof_BU",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Thu,02:03,Thu_02_03,A005,"E.Mech",T148,"Prof_BW",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Thu,03:04,Thu_03_04,A004,"B. Etc.",T115,"Prof_P",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC16,Fri,10:11,Fri_10_11,A010,"SY",T119,"Prof_T",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC17,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-18,Multi-Purpose,Elective,A,2,campus-17-class
+SEC17,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-18,Multi-Purpose,Elective,A,2,campus-17-class
+SEC17,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-18,Multi-Purpose,Elective,A,2,campus-17-class
+SEC17,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-18,Multi-Purpose,Elective,A,2,campus-17-class
+SEC17,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-18,Multi-Purpose,Elective,A,2,campus-17-class
+SEC17,Mon,10:11,Mon_10_11,A010,"SY",T152,"Prof_CA",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC17,Mon,11:12,Mon_11_12,A003,"Eng.",T167,"Prof_CP",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Mon,12:01,Mon_12_01,A012,"Chem. Lab",T140,"Prof_BO",Block-B-Lab-03,Lab,LAB,A,1,b-wl-lab
+SEC17,Mon,02:03,Mon_02_03,A006,"BEE",T167,"Prof_CP",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Mon,03:04,Mon_03_04,A004,"B. Etc.",T166,"Prof_CO",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Tue,10:11,Tue_10_11,A005,"E.Mech",T156,"Prof_CE",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Tue,11:12,Tue_11_12,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Tue,12:01,Tue_12_01,A002,"Chem",T152,"Prof_CA",Block-17-Room-18,Classroom,THEORY,A,3,campus-17-class
+SEC17,Tue,02:03,Tue_02_03,A007,"  BEtc ./E.Mech. Lab",T137,"Prof_BL",Block-B-Lab-09,Lab,LAB,A,1,b-wl-lab
+SEC17,Tue,03:04,Tue_03_04,A002,"Chem",T136,"Prof_BK",Block-17-Room-18,Classroom,THEORY,A,3,campus-17-class
+SEC17,Wed,10:11,Wed_10_11,A001,"T&NM",T143,"Prof_BR",Block-17-Room-18,Classroom,THEORY,A,4,campus-17-class
+SEC17,Wed,11:12,Wed_11_12,A011,"Comm. Lab",T196,"Prof_DS",Block-B-Lab-02,Lab,LAB,A,1,b-wl-lab
+SEC17,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-18,Classroom,THEORY,A,4,campus-17-class
+SEC17,Wed,02:03,Wed_02_03,A005,"E.Mech",T168,"Prof_CQ",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Wed,03:04,Wed_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Thu,10:11,Thu_10_11,A001,"T&NM",T157,"Prof_CF",Block-17-Room-18,Classroom,THEORY,A,4,campus-17-class
+SEC17,Thu,11:12,Thu_11_12,A008,"Engg. Lab",T123,"Prof_X",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC17,Thu,12:01,Thu_12_01,A006,"BEE",T138,"Prof_BM",Block-17-Room-18,Classroom,THEORY,A,2,campus-17-class
+SEC17,Thu,02:03,Thu_02_03,A001,"T&NM",T130,"Prof_BE",Block-17-Room-18,Classroom,THEORY,A,4,campus-17-class
+SEC17,Thu,03:04,Thu_03_04,A009,"Workshop",T140,"Prof_BO",Block-B-Lab-10,Lab,LAB,A,1,b-wl-lab
+SEC17,Fri,10:11,Fri_10_11,A002,"Chem",T182,"Prof_DE",Block-17-Room-18,Classroom,THEORY,A,3,campus-17-class
+SEC18,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-19,Multi-Purpose,Elective,A,2,campus-17-class
+SEC18,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-19,Multi-Purpose,Elective,A,2,campus-17-class
+SEC18,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-19,Multi-Purpose,Elective,A,2,campus-17-class
+SEC18,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-19,Multi-Purpose,Elective,A,2,campus-17-class
+SEC18,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-19,Multi-Purpose,Elective,A,2,campus-17-class
+SEC18,Mon,10:11,Mon_10_11,A012,"Chem. Lab",T124,"Prof_Y",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC18,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC18,Mon,12:01,Mon_12_01,A002,"Chem",T152,"Prof_CA",Block-17-Room-19,Classroom,THEORY,A,3,campus-17-class
+SEC18,Mon,02:03,Mon_02_03,A004,"B. Etc.",T159,"Prof_CH",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Mon,03:04,Mon_03_04,A011,"Comm. Lab",T197,"Prof_DT",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC18,Tue,10:11,Tue_10_11,A010,"SY",T173,"Prof_CV",Block-C-Lab-06,Lab,LAB,A,1,c-wl-lab
+SEC18,Tue,11:12,Tue_11_12,A001,"T&NM",T130,"Prof_BE",Block-17-Room-19,Classroom,THEORY,A,4,campus-17-class
+SEC18,Tue,12:01,Tue_12_01,A001,"T&NM",T192,"Prof_DO",Block-17-Room-19,Classroom,THEORY,A,4,campus-17-class
+SEC18,Tue,02:03,Tue_02_03,A006,"BEE",T165,"Prof_CN",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Tue,03:04,Tue_03_04,A006,"BEE",T113,"Prof_N",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Wed,10:11,Wed_10_11,A007,"  BEtc ./E.Mech. Lab",T147,"Prof_BV",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC18,Wed,11:12,Wed_11_12,A002,"Chem",T152,"Prof_CA",Block-17-Room-19,Classroom,THEORY,A,3,campus-17-class
+SEC18,Wed,12:01,Wed_12_01,A002,"Chem",T121,"Prof_V",Block-17-Room-19,Classroom,THEORY,A,3,campus-17-class
+SEC18,Wed,02:03,Wed_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Wed,03:04,Wed_03_04,A001,"T&NM",T185,"Prof_DH",Block-17-Room-19,Classroom,THEORY,A,4,campus-17-class
+SEC18,Thu,10:11,Thu_10_11,A004,"B. Etc.",T159,"Prof_CH",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Thu,11:12,Thu_11_12,A005,"E.Mech",T160,"Prof_CI",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Thu,12:01,Thu_12_01,A003,"Eng.",T184,"Prof_DG",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Thu,02:03,Thu_02_03,A003,"Eng.",T101,"Prof_B",Block-17-Room-19,Classroom,THEORY,A,2,campus-17-class
+SEC18,Thu,03:04,Thu_03_04,A001,"T&NM",T185,"Prof_DH",Block-17-Room-19,Classroom,THEORY,A,4,campus-17-class
+SEC18,Fri,10:11,Fri_10_11,A009,"Workshop",T110,"Prof_K",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC19,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-20,Multi-Purpose,Elective,A,2,campus-17-class
+SEC19,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-20,Multi-Purpose,Elective,A,2,campus-17-class
+SEC19,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-20,Multi-Purpose,Elective,A,2,campus-17-class
+SEC19,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-20,Multi-Purpose,Elective,A,2,campus-17-class
+SEC19,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-20,Multi-Purpose,Elective,A,2,campus-17-class
+SEC19,Mon,10:11,Mon_10_11,A010,"SY",T163,"Prof_CL",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC19,Mon,11:12,Mon_11_12,A007,"  BEtc ./E.Mech. Lab",T122,"Prof_W",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC19,Mon,12:01,Mon_12_01,A002,"Chem",T182,"Prof_DE",Block-17-Room-20,Classroom,THEORY,A,3,campus-17-class
+SEC19,Mon,02:03,Mon_02_03,A004,"B. Etc.",T171,"Prof_CT",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Mon,03:04,Mon_03_04,A001,"T&NM",T157,"Prof_CF",Block-17-Room-20,Classroom,THEORY,A,4,campus-17-class
+SEC19,Tue,10:11,Tue_10_11,A001,"T&NM",T157,"Prof_CF",Block-17-Room-20,Classroom,THEORY,A,4,campus-17-class
+SEC19,Tue,11:12,Tue_11_12,A001,"T&NM",T157,"Prof_CF",Block-17-Room-20,Classroom,THEORY,A,4,campus-17-class
+SEC19,Tue,12:01,Tue_12_01,A003,"Eng.",T114,"Prof_O",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Tue,02:03,Tue_02_03,A005,"E.Mech",T156,"Prof_CE",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Tue,03:04,Tue_03_04,A005,"E.Mech",T141,"Prof_BP",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Wed,10:11,Wed_10_11,A008,"Engg. Lab",T104,"Prof_E",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC19,Wed,11:12,Wed_11_12,A006,"BEE",T178,"Prof_DA",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Wed,12:01,Wed_12_01,A004,"B. Etc.",T127,"Prof_BB",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Wed,02:03,Wed_02_03,A002,"Chem",T198,"Prof_DU",Block-17-Room-20,Classroom,THEORY,A,3,campus-17-class
+SEC19,Wed,03:04,Wed_03_04,A006,"BEE",T132,"Prof_BG",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Thu,10:11,Thu_10_11,A011,"Comm. Lab",T154,"Prof_CC",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC19,Thu,11:12,Thu_11_12,A003,"Eng.",T191,"Prof_DN",Block-17-Room-20,Classroom,THEORY,A,2,campus-17-class
+SEC19,Thu,12:01,Thu_12_01,A002,"Chem",T121,"Prof_V",Block-17-Room-20,Classroom,THEORY,A,3,campus-17-class
+SEC19,Thu,02:03,Thu_02_03,A012,"Chem. Lab",T143,"Prof_BR",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC19,Thu,03:04,Thu_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-20,Classroom,THEORY,A,4,campus-17-class
+SEC19,Fri,10:11,Fri_10_11,A009,"Workshop",T124,"Prof_Y",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC20,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-01,Multi-Purpose,Elective,A,2,campus-17-class
+SEC20,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-01,Multi-Purpose,Elective,A,2,campus-17-class
+SEC20,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-01,Multi-Purpose,Elective,A,2,campus-17-class
+SEC20,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-01,Multi-Purpose,Elective,A,2,campus-17-class
+SEC20,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-01,Multi-Purpose,Elective,A,2,campus-17-class
+SEC20,Mon,10:11,Mon_10_11,A001,"T&NM",T175,"Prof_CX",Block-17-Room-01,Classroom,THEORY,A,4,campus-17-class
+SEC20,Mon,11:12,Mon_11_12,A001,"T&NM",T153,"Prof_CB",Block-17-Room-01,Classroom,THEORY,A,4,campus-17-class
+SEC20,Mon,12:01,Mon_12_01,A005,"E.Mech",T131,"Prof_BF",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Mon,02:03,Mon_02_03,A011,"Comm. Lab",T196,"Prof_DS",Block-A-Lab-04,Lab,LAB,A,1,a-dl-lab
+SEC20,Mon,03:04,Mon_03_04,A002,"Chem",T121,"Prof_V",Block-17-Room-01,Classroom,THEORY,A,3,campus-17-class
+SEC20,Tue,10:11,Tue_10_11,A007,"  BEtc ./E.Mech. Lab",T137,"Prof_BL",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC20,Tue,11:12,Tue_11_12,A008,"Engg. Lab",T164,"Prof_CM",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC20,Tue,12:01,Tue_12_01,A010,"SY",T119,"Prof_T",Block-A-Lab-08,Lab,LAB,A,1,a-dl-lab
+SEC20,Tue,02:03,Tue_02_03,A001,"T&NM",T181,"Prof_DD",Block-17-Room-01,Classroom,THEORY,A,4,campus-17-class
+SEC20,Tue,03:04,Tue_03_04,A002,"Chem",T150,"Prof_BY",Block-17-Room-01,Classroom,THEORY,A,3,campus-17-class
+SEC20,Wed,10:11,Wed_10_11,A003,"Eng.",T188,"Prof_DK",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Wed,11:12,Wed_11_12,A003,"Eng.",T170,"Prof_CS",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Wed,12:01,Wed_12_01,A005,"E.Mech",T145,"Prof_BT",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Wed,02:03,Wed_02_03,A004,"B. Etc.",T155,"Prof_CD",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Wed,03:04,Wed_03_04,A012,"Chem. Lab",T140,"Prof_BO",Block-A-Lab-05,Lab,LAB,A,1,a-dl-lab
+SEC20,Thu,10:11,Thu_10_11,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Thu,11:12,Thu_11_12,A006,"BEE",T193,"Prof_DP",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC20,Thu,12:01,Thu_12_01,A002,"Chem",T145,"Prof_BT",Block-17-Room-01,Classroom,THEORY,A,3,campus-17-class
+SEC20,Thu,02:03,Thu_02_03,A001,"T&NM",T153,"Prof_CB",Block-17-Room-01,Classroom,THEORY,A,4,campus-17-class
+SEC20,Thu,03:04,Thu_03_04,A009,"Workshop",T172,"Prof_CU",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC20,Fri,10:11,Fri_10_11,A006,"BEE",T178,"Prof_DA",Block-17-Room-01,Classroom,THEORY,A,2,campus-17-class
+SEC21,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC21,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC21,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC21,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC21,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-02,Multi-Purpose,Elective,A,2,campus-17-class
+SEC21,Mon,10:11,Mon_10_11,A011,"Comm. Lab",T148,"Prof_BW",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC21,Mon,11:12,Mon_11_12,A003,"Eng.",T170,"Prof_CS",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Mon,12:01,Mon_12_01,A001,"T&NM",T158,"Prof_CG",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC21,Mon,02:03,Mon_02_03,A002,"Chem",T152,"Prof_CA",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC21,Mon,03:04,Mon_03_04,A006,"BEE",T102,"Prof_C",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Tue,10:11,Tue_10_11,A001,"T&NM",T162,"Prof_CK",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC21,Tue,11:12,Tue_11_12,A003,"Eng.",T146,"Prof_BU",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Tue,12:01,Tue_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC21,Tue,02:03,Tue_02_03,A002,"Chem",T100,"Prof_A",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC21,Tue,03:04,Tue_03_04,A004,"B. Etc.",T166,"Prof_CO",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Wed,10:11,Wed_10_11,A012,"Chem. Lab",T140,"Prof_BO",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC21,Wed,11:12,Wed_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-02,Classroom,THEORY,A,4,campus-17-class
+SEC21,Wed,12:01,Wed_12_01,A002,"Chem",T134,"Prof_BI",Block-17-Room-02,Classroom,THEORY,A,3,campus-17-class
+SEC21,Wed,02:03,Wed_02_03,A009,"Workshop",T110,"Prof_K",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC21,Wed,03:04,Wed_03_04,A004,"B. Etc.",T159,"Prof_CH",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Thu,10:11,Thu_10_11,A005,"E.Mech",T144,"Prof_BS",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Thu,11:12,Thu_11_12,A008,"Engg. Lab",T182,"Prof_DE",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC21,Thu,12:01,Thu_12_01,A010,"SY",T164,"Prof_CM",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC21,Thu,02:03,Thu_02_03,A007,"  BEtc ./E.Mech. Lab",T151,"Prof_BZ",Block-B-Lab-09,Lab,LAB,A,1,b-wl-lab
+SEC21,Thu,03:04,Thu_03_04,A005,"E.Mech",T160,"Prof_CI",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC21,Fri,10:11,Fri_10_11,A006,"BEE",T184,"Prof_DG",Block-17-Room-02,Classroom,THEORY,A,2,campus-17-class
+SEC22,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC22,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC22,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC22,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC22,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-03,Multi-Purpose,Elective,A,2,campus-17-class
+SEC22,Mon,10:11,Mon_10_11,A003,"Eng.",T146,"Prof_BU",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC22,Mon,12:01,Mon_12_01,A002,"Chem",T190,"Prof_DM",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC22,Mon,02:03,Mon_02_03,A011,"Comm. Lab",T197,"Prof_DT",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC22,Mon,03:04,Mon_03_04,A010,"SY",T118,"Prof_S",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC22,Tue,10:11,Tue_10_11,A005,"E.Mech",T172,"Prof_CU",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Tue,11:12,Tue_11_12,A001,"T&NM",T161,"Prof_CJ",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC22,Tue,12:01,Tue_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC22,Tue,02:03,Tue_02_03,A005,"E.Mech",T159,"Prof_CH",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Tue,03:04,Tue_03_04,A002,"Chem",T152,"Prof_CA",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC22,Wed,10:11,Wed_10_11,A007,"  BEtc ./E.Mech. Lab",T196,"Prof_DS",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC22,Wed,11:12,Wed_11_12,A003,"Eng.",T101,"Prof_B",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Wed,12:01,Wed_12_01,A002,"Chem",T135,"Prof_BJ",Block-17-Room-03,Classroom,THEORY,A,3,campus-17-class
+SEC22,Wed,02:03,Wed_02_03,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Wed,03:04,Wed_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC22,Thu,10:11,Thu_10_11,A006,"BEE",T158,"Prof_CG",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Thu,11:12,Thu_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-03,Classroom,THEORY,A,4,campus-17-class
+SEC22,Thu,12:01,Thu_12_01,A009,"Workshop",T147,"Prof_BV",Block-C-Lab-08,Lab,LAB,A,1,c-wl-lab
+SEC22,Thu,02:03,Thu_02_03,A012,"Chem. Lab",T158,"Prof_CG",Block-C-Lab-09,Lab,LAB,A,1,c-wl-lab
+SEC22,Thu,03:04,Thu_03_04,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC22,Fri,10:11,Fri_10_11,A006,"BEE",T186,"Prof_DI",Block-17-Room-03,Classroom,THEORY,A,2,campus-17-class
+SEC23,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC23,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC23,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC23,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC23,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-04,Multi-Purpose,Elective,A,2,campus-17-class
+SEC23,Mon,10:11,Mon_10_11,A002,"Chem",T182,"Prof_DE",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC23,Mon,11:12,Mon_11_12,A011,"Comm. Lab",T148,"Prof_BW",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC23,Mon,12:01,Mon_12_01,A004,"B. Etc.",T189,"Prof_DL",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Mon,02:03,Mon_02_03,A012,"Chem. Lab",T139,"Prof_BN",Block-LAB-Lab-04,Lab,LAB,A,1,lab-cam-3-lab
+SEC23,Mon,03:04,Mon_03_04,A002,"Chem",T150,"Prof_BY",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC23,Tue,10:11,Tue_10_11,A007,"  BEtc ./E.Mech. Lab",T147,"Prof_BV",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC23,Tue,11:12,Tue_11_12,A004,"B. Etc.",T195,"Prof_DR",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Tue,12:01,Tue_12_01,A006,"BEE",T111,"Prof_L",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Tue,02:03,Tue_02_03,A003,"Eng.",T184,"Prof_DG",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Tue,03:04,Tue_03_04,A001,"T&NM",T153,"Prof_CB",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC23,Wed,10:11,Wed_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-04,Classroom,THEORY,A,3,campus-17-class
+SEC23,Wed,11:12,Wed_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC23,Wed,12:01,Wed_12_01,A006,"BEE",T160,"Prof_CI",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Wed,02:03,Wed_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Wed,03:04,Wed_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Thu,10:11,Thu_10_11,A008,"Engg. Lab",T179,"Prof_DB",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC23,Thu,11:12,Thu_11_12,A005,"E.Mech",T168,"Prof_CQ",Block-17-Room-04,Classroom,THEORY,A,2,campus-17-class
+SEC23,Thu,12:01,Thu_12_01,A001,"T&NM",T161,"Prof_CJ",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC23,Thu,02:03,Thu_02_03,A010,"SY",T118,"Prof_S",Block-LAB-Lab-09,Lab,LAB,A,1,lab-cam-3-lab
+SEC23,Thu,03:04,Thu_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-04,Classroom,THEORY,A,4,campus-17-class
+SEC23,Fri,10:11,Fri_10_11,A009,"Workshop",T140,"Prof_BO",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC24,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC24,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC24,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC24,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC24,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-05,Multi-Purpose,Elective,A,2,campus-17-class
+SEC24,Mon,10:11,Mon_10_11,A003,"Eng.",T167,"Prof_CP",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Mon,11:12,Mon_11_12,A002,"Chem",T198,"Prof_DU",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC24,Mon,12:01,Mon_12_01,A012,"Chem. Lab",T162,"Prof_CK",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC24,Mon,02:03,Mon_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Mon,03:04,Mon_03_04,A007,"  BEtc ./E.Mech. Lab",T125,"Prof_Z",Block-A-Lab-05,Lab,LAB,A,1,a-dl-lab
+SEC24,Tue,10:11,Tue_10_11,A001,"T&NM",T179,"Prof_DB",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC24,Tue,11:12,Tue_11_12,A001,"T&NM",T192,"Prof_DO",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC24,Tue,12:01,Tue_12_01,A006,"BEE",T167,"Prof_CP",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Tue,02:03,Tue_02_03,A005,"E.Mech",T172,"Prof_CU",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Tue,03:04,Tue_03_04,A003,"Eng.",T163,"Prof_CL",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Wed,10:11,Wed_10_11,A006,"BEE",T158,"Prof_CG",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Wed,11:12,Wed_11_12,A010,"SY",T119,"Prof_T",Block-A-Lab-02,Lab,LAB,A,1,a-dl-lab
+SEC24,Wed,12:01,Wed_12_01,A002,"Chem",T150,"Prof_BY",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC24,Wed,02:03,Wed_02_03,A009,"Workshop",T179,"Prof_DB",Block-A-Lab-04,Lab,LAB,A,1,a-dl-lab
+SEC24,Wed,03:04,Wed_03_04,A008,"Engg. Lab",T174,"Prof_CW",Block-A-Lab-05,Lab,LAB,A,1,a-dl-lab
+SEC24,Thu,10:11,Thu_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC24,Thu,11:12,Thu_11_12,A011,"Comm. Lab",T154,"Prof_CC",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC24,Thu,12:01,Thu_12_01,A002,"Chem",T174,"Prof_CW",Block-17-Room-05,Classroom,THEORY,A,3,campus-17-class
+SEC24,Thu,02:03,Thu_02_03,A005,"E.Mech",T194,"Prof_DQ",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Thu,03:04,Thu_03_04,A004,"B. Etc.",T171,"Prof_CT",Block-17-Room-05,Classroom,THEORY,A,2,campus-17-class
+SEC24,Fri,10:11,Fri_10_11,A001,"T&NM",T153,"Prof_CB",Block-17-Room-05,Classroom,THEORY,A,4,campus-17-class
+SEC25,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC25,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC25,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC25,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC25,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-06,Multi-Purpose,Elective,A,2,campus-17-class
+SEC25,Mon,10:11,Mon_10_11,A008,"Engg. Lab",T164,"Prof_CM",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC25,Mon,11:12,Mon_11_12,A003,"Eng.",T183,"Prof_DF",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Mon,12:01,Mon_12_01,A001,"T&NM",T179,"Prof_DB",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC25,Mon,02:03,Mon_02_03,A002,"Chem",T174,"Prof_CW",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC25,Mon,03:04,Mon_03_04,A011,"Comm. Lab",T103,"Prof_D",Block-B-Lab-05,Lab,LAB,A,1,b-wl-lab
+SEC25,Tue,10:11,Tue_10_11,A001,"T&NM",T181,"Prof_DD",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC25,Tue,11:12,Tue_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC25,Tue,12:01,Tue_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-06,Classroom,THEORY,A,4,campus-17-class
+SEC25,Tue,02:03,Tue_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Tue,03:04,Tue_03_04,A005,"E.Mech",T157,"Prof_CF",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Wed,10:11,Wed_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC25,Wed,11:12,Wed_11_12,A012,"Chem. Lab",T103,"Prof_D",Block-B-Lab-02,Lab,LAB,A,1,b-wl-lab
+SEC25,Wed,12:01,Wed_12_01,A007,"  BEtc ./E.Mech. Lab",T156,"Prof_CE",Block-B-Lab-03,Lab,LAB,A,1,b-wl-lab
+SEC25,Wed,02:03,Wed_02_03,A009,"Workshop",T183,"Prof_DF",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC25,Wed,03:04,Wed_03_04,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Thu,10:11,Thu_10_11,A006,"BEE",T178,"Prof_DA",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Thu,11:12,Thu_11_12,A003,"Eng.",T101,"Prof_B",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Thu,12:01,Thu_12_01,A002,"Chem",T198,"Prof_DU",Block-17-Room-06,Classroom,THEORY,A,3,campus-17-class
+SEC25,Thu,02:03,Thu_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Thu,03:04,Thu_03_04,A006,"BEE",T138,"Prof_BM",Block-17-Room-06,Classroom,THEORY,A,2,campus-17-class
+SEC25,Fri,10:11,Fri_10_11,A010,"SY",T170,"Prof_CS",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC26,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC26,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC26,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC26,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC26,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-07,Multi-Purpose,Elective,A,2,campus-17-class
+SEC26,Mon,10:11,Mon_10_11,A001,"T&NM",T192,"Prof_DO",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC26,Mon,11:12,Mon_11_12,A005,"E.Mech",T157,"Prof_CF",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Mon,12:01,Mon_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC26,Mon,02:03,Mon_02_03,A008,"Engg. Lab",T162,"Prof_CK",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC26,Mon,03:04,Mon_03_04,A003,"Eng.",T188,"Prof_DK",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Tue,10:11,Tue_10_11,A007,"  BEtc ./E.Mech. Lab",T151,"Prof_BZ",Block-C-Lab-06,Lab,LAB,A,1,c-wl-lab
+SEC26,Tue,11:12,Tue_11_12,A006,"BEE",T141,"Prof_BP",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Tue,12:01,Tue_12_01,A003,"Eng.",T146,"Prof_BU",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Tue,02:03,Tue_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Tue,03:04,Tue_03_04,A004,"B. Etc.",T189,"Prof_DL",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Wed,10:11,Wed_10_11,A006,"BEE",T102,"Prof_C",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Wed,11:12,Wed_11_12,A012,"Chem. Lab",T103,"Prof_D",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC26,Wed,12:01,Wed_12_01,A002,"Chem",T187,"Prof_DJ",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC26,Wed,02:03,Wed_02_03,A002,"Chem",T100,"Prof_A",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC26,Wed,03:04,Wed_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC26,Thu,10:11,Thu_10_11,A009,"Workshop",T110,"Prof_K",Block-C-Lab-06,Lab,LAB,A,1,c-wl-lab
+SEC26,Thu,11:12,Thu_11_12,A011,"Comm. Lab",T197,"Prof_DT",Block-C-Lab-07,Lab,LAB,A,1,c-wl-lab
+SEC26,Thu,12:01,Thu_12_01,A005,"E.Mech",T194,"Prof_DQ",Block-17-Room-07,Classroom,THEORY,A,2,campus-17-class
+SEC26,Thu,02:03,Thu_02_03,A010,"SY",T176,"Prof_CY",Block-C-Lab-09,Lab,LAB,A,1,c-wl-lab
+SEC26,Thu,03:04,Thu_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-07,Classroom,THEORY,A,4,campus-17-class
+SEC26,Fri,10:11,Fri_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-07,Classroom,THEORY,A,3,campus-17-class
+SEC27,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC27,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC27,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC27,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC27,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-08,Multi-Purpose,Elective,A,2,campus-17-class
+SEC27,Mon,10:11,Mon_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC27,Mon,11:12,Mon_11_12,A001,"T&NM",T158,"Prof_CG",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC27,Mon,12:01,Mon_12_01,A010,"SY",T118,"Prof_S",Block-LAB-Lab-03,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Mon,02:03,Mon_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Mon,03:04,Mon_03_04,A005,"E.Mech",T168,"Prof_CQ",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Tue,10:11,Tue_10_11,A012,"Chem. Lab",T103,"Prof_D",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Tue,11:12,Tue_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC27,Tue,12:01,Tue_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-08,Classroom,THEORY,A,4,campus-17-class
+SEC27,Tue,02:03,Tue_02_03,A006,"BEE",T186,"Prof_DI",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Tue,03:04,Tue_03_04,A009,"Workshop",T147,"Prof_BV",Block-LAB-Lab-10,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Wed,10:11,Wed_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC27,Wed,11:12,Wed_11_12,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Wed,12:01,Wed_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC27,Wed,02:03,Wed_02_03,A007,"  BEtc ./E.Mech. Lab",T125,"Prof_Z",Block-LAB-Lab-04,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Wed,03:04,Wed_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Thu,10:11,Thu_10_11,A008,"Engg. Lab",T182,"Prof_DE",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Thu,11:12,Thu_11_12,A011,"Comm. Lab",T103,"Prof_D",Block-LAB-Lab-07,Lab,LAB,A,1,lab-cam-3-lab
+SEC27,Thu,12:01,Thu_12_01,A003,"Eng.",T188,"Prof_DK",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Thu,02:03,Thu_02_03,A002,"Chem",T134,"Prof_BI",Block-17-Room-08,Classroom,THEORY,A,3,campus-17-class
+SEC27,Thu,03:04,Thu_03_04,A005,"E.Mech",T193,"Prof_DP",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC27,Fri,10:11,Fri_10_11,A006,"BEE",T102,"Prof_C",Block-17-Room-08,Classroom,THEORY,A,2,campus-17-class
+SEC28,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC28,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC28,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC28,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC28,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-09,Multi-Purpose,Elective,A,2,campus-17-class
+SEC28,Mon,10:11,Mon_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC28,Mon,11:12,Mon_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-A-Lab-02,Lab,LAB,A,1,a-dl-lab
+SEC28,Mon,12:01,Mon_12_01,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Mon,02:03,Mon_02_03,A006,"BEE",T178,"Prof_DA",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Mon,03:04,Mon_03_04,A004,"B. Etc.",T169,"Prof_CR",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Tue,10:11,Tue_10_11,A010,"SY",T177,"Prof_CZ",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC28,Tue,11:12,Tue_11_12,A011,"Comm. Lab",T148,"Prof_BW",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC28,Tue,12:01,Tue_12_01,A005,"E.Mech",T104,"Prof_E",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Tue,02:03,Tue_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC28,Tue,03:04,Tue_03_04,A012,"Chem. Lab",T186,"Prof_DI",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC28,Wed,10:11,Wed_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC28,Wed,11:12,Wed_11_12,A002,"Chem",T174,"Prof_CW",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC28,Wed,12:01,Wed_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC28,Wed,02:03,Wed_02_03,A006,"BEE",T167,"Prof_CP",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Wed,03:04,Wed_03_04,A005,"E.Mech",T160,"Prof_CI",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Thu,10:11,Thu_10_11,A007,"  BEtc ./E.Mech. Lab",T151,"Prof_BZ",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC28,Thu,11:12,Thu_11_12,A009,"Workshop",T110,"Prof_K",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC28,Thu,12:01,Thu_12_01,A003,"Eng.",T191,"Prof_DN",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Thu,02:03,Thu_02_03,A001,"T&NM",T179,"Prof_DB",Block-17-Room-09,Classroom,THEORY,A,4,campus-17-class
+SEC28,Thu,03:04,Thu_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-09,Classroom,THEORY,A,2,campus-17-class
+SEC28,Fri,10:11,Fri_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-09,Classroom,THEORY,A,3,campus-17-class
+SEC29,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC29,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC29,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC29,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC29,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-10,Multi-Purpose,Elective,A,2,campus-17-class
+SEC29,Mon,10:11,Mon_10_11,A002,"Chem",T187,"Prof_DJ",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC29,Mon,11:12,Mon_11_12,A002,"Chem",T100,"Prof_A",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC29,Mon,12:01,Mon_12_01,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Mon,02:03,Mon_02_03,A012,"Chem. Lab",T173,"Prof_CV",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC29,Mon,03:04,Mon_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Tue,10:11,Tue_10_11,A003,"Eng.",T184,"Prof_DG",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Tue,11:12,Tue_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC29,Tue,12:01,Tue_12_01,A008,"Engg. Lab",T164,"Prof_CM",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC29,Tue,02:03,Tue_02_03,A002,"Chem",T100,"Prof_A",Block-17-Room-10,Classroom,THEORY,A,3,campus-17-class
+SEC29,Tue,03:04,Tue_03_04,A010,"SY",T119,"Prof_T",Block-B-Lab-10,Lab,LAB,A,1,b-wl-lab
+SEC29,Wed,10:11,Wed_10_11,A006,"BEE",T102,"Prof_C",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Wed,11:12,Wed_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC29,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC29,Wed,02:03,Wed_02_03,A011,"Comm. Lab",T154,"Prof_CC",Block-B-Lab-04,Lab,LAB,A,1,b-wl-lab
+SEC29,Wed,03:04,Wed_03_04,A005,"E.Mech",T104,"Prof_E",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Thu,10:11,Thu_10_11,A004,"B. Etc.",T195,"Prof_DR",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Thu,11:12,Thu_11_12,A007,"  BEtc ./E.Mech. Lab",T125,"Prof_Z",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC29,Thu,12:01,Thu_12_01,A006,"BEE",T165,"Prof_CN",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Thu,02:03,Thu_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-10,Classroom,THEORY,A,2,campus-17-class
+SEC29,Thu,03:04,Thu_03_04,A009,"Workshop",T104,"Prof_E",Block-B-Lab-10,Lab,LAB,A,1,b-wl-lab
+SEC29,Fri,10:11,Fri_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-10,Classroom,THEORY,A,4,campus-17-class
+SEC30,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC30,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC30,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC30,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC30,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-11,Multi-Purpose,Elective,A,2,campus-17-class
+SEC30,Mon,10:11,Mon_10_11,A005,"E.Mech",T144,"Prof_BS",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Mon,11:12,Mon_11_12,A011,"Comm. Lab",T149,"Prof_BX",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC30,Mon,12:01,Mon_12_01,A012,"Chem. Lab",T103,"Prof_D",Block-C-Lab-03,Lab,LAB,A,1,c-wl-lab
+SEC30,Mon,02:03,Mon_02_03,A007,"  BEtc ./E.Mech. Lab",T183,"Prof_DF",Block-C-Lab-04,Lab,LAB,A,1,c-wl-lab
+SEC30,Mon,03:04,Mon_03_04,A002,"Chem",T152,"Prof_CA",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC30,Tue,10:11,Tue_10_11,A002,"Chem",T123,"Prof_X",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC30,Tue,11:12,Tue_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC30,Tue,12:01,Tue_12_01,A003,"Eng.",T170,"Prof_CS",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Tue,02:03,Tue_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC30,Tue,03:04,Tue_03_04,A005,"E.Mech",T160,"Prof_CI",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Wed,10:11,Wed_10_11,A003,"Eng.",T101,"Prof_B",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Wed,11:12,Wed_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-C-Lab-02,Lab,LAB,A,1,c-wl-lab
+SEC30,Wed,12:01,Wed_12_01,A009,"Workshop",T172,"Prof_CU",Block-C-Lab-03,Lab,LAB,A,1,c-wl-lab
+SEC30,Wed,02:03,Wed_02_03,A006,"BEE",T178,"Prof_DA",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Wed,03:04,Wed_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC30,Thu,10:11,Thu_10_11,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Thu,11:12,Thu_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-11,Classroom,THEORY,A,4,campus-17-class
+SEC30,Thu,12:01,Thu_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-11,Classroom,THEORY,A,3,campus-17-class
+SEC30,Thu,02:03,Thu_02_03,A004,"B. Etc.",T189,"Prof_DL",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Thu,03:04,Thu_03_04,A006,"BEE",T165,"Prof_CN",Block-17-Room-11,Classroom,THEORY,A,2,campus-17-class
+SEC30,Fri,10:11,Fri_10_11,A010,"SY",T176,"Prof_CY",Block-C-Lab-01,Lab,LAB,A,1,c-wl-lab
+SEC31,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC31,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC31,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC31,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC31,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-12,Multi-Purpose,Elective,A,2,campus-17-class
+SEC31,Mon,10:11,Mon_10_11,A010,"SY",T173,"Prof_CV",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Mon,11:12,Mon_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC31,Mon,12:01,Mon_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC31,Mon,02:03,Mon_02_03,A002,"Chem",T182,"Prof_DE",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC31,Mon,03:04,Mon_03_04,A012,"Chem. Lab",T173,"Prof_CV",Block-LAB-Lab-05,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Tue,10:11,Tue_10_11,A001,"T&NM",T192,"Prof_DO",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC31,Tue,11:12,Tue_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-LAB-Lab-07,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Tue,12:01,Tue_12_01,A006,"BEE",T178,"Prof_DA",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Tue,02:03,Tue_02_03,A005,"E.Mech",T193,"Prof_DP",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Tue,03:04,Tue_03_04,A009,"Workshop",T183,"Prof_DF",Block-LAB-Lab-10,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Wed,10:11,Wed_10_11,A003,"Eng.",T101,"Prof_B",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Wed,11:12,Wed_11_12,A011,"Comm. Lab",T103,"Prof_D",Block-LAB-Lab-02,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-12,Classroom,THEORY,A,4,campus-17-class
+SEC31,Wed,02:03,Wed_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Wed,03:04,Wed_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Thu,10:11,Thu_10_11,A006,"BEE",T102,"Prof_C",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Thu,11:12,Thu_11_12,A007,"  BEtc ./E.Mech. Lab",T137,"Prof_BL",Block-LAB-Lab-07,Lab,LAB,A,1,lab-cam-3-lab
+SEC31,Thu,12:01,Thu_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC31,Thu,02:03,Thu_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC31,Thu,03:04,Thu_03_04,A002,"Chem",T100,"Prof_A",Block-17-Room-12,Classroom,THEORY,A,3,campus-17-class
+SEC31,Fri,10:11,Fri_10_11,A004,"B. Etc.",T189,"Prof_DL",Block-17-Room-12,Classroom,THEORY,A,2,campus-17-class
+SEC32,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC32,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC32,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC32,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC32,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-13,Multi-Purpose,Elective,A,2,campus-17-class
+SEC32,Mon,10:11,Mon_10_11,A008,"Engg. Lab",T104,"Prof_E",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC32,Mon,11:12,Mon_11_12,A006,"BEE",T160,"Prof_CI",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Mon,12:01,Mon_12_01,A009,"Workshop",T147,"Prof_BV",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC32,Mon,02:03,Mon_02_03,A012,"Chem. Lab",T103,"Prof_D",Block-A-Lab-04,Lab,LAB,A,1,a-dl-lab
+SEC32,Mon,03:04,Mon_03_04,A010,"SY",T100,"Prof_A",Block-A-Lab-05,Lab,LAB,A,1,a-dl-lab
+SEC32,Tue,10:11,Tue_10_11,A005,"E.Mech",T104,"Prof_E",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Tue,11:12,Tue_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC32,Tue,12:01,Tue_12_01,A003,"Eng.",T171,"Prof_CT",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Tue,02:03,Tue_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Tue,03:04,Tue_03_04,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Wed,10:11,Wed_10_11,A011,"Comm. Lab",T154,"Prof_CC",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC32,Wed,11:12,Wed_11_12,A002,"Chem",T100,"Prof_A",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC32,Wed,12:01,Wed_12_01,A003,"Eng.",T146,"Prof_BU",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Wed,02:03,Wed_02_03,A001,"T&NM",T153,"Prof_CB",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC32,Wed,03:04,Wed_03_04,A005,"E.Mech",T104,"Prof_E",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Thu,10:11,Thu_10_11,A006,"BEE",T102,"Prof_C",Block-17-Room-13,Classroom,THEORY,A,2,campus-17-class
+SEC32,Thu,11:12,Thu_11_12,A002,"Chem",T190,"Prof_DM",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC32,Thu,12:01,Thu_12_01,A001,"T&NM",T162,"Prof_CK",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC32,Thu,02:03,Thu_02_03,A007,"  BEtc ./E.Mech. Lab",T165,"Prof_CN",Block-A-Lab-09,Lab,LAB,A,1,a-dl-lab
+SEC32,Thu,03:04,Thu_03_04,A002,"Chem",T100,"Prof_A",Block-17-Room-13,Classroom,THEORY,A,3,campus-17-class
+SEC32,Fri,10:11,Fri_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-13,Classroom,THEORY,A,4,campus-17-class
+SEC33,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC33,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC33,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC33,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC33,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-14,Multi-Purpose,Elective,A,2,campus-17-class
+SEC33,Mon,10:11,Mon_10_11,A009,"Workshop",T139,"Prof_BN",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC33,Mon,11:12,Mon_11_12,A003,"Eng.",T184,"Prof_DG",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Mon,12:01,Mon_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC33,Mon,02:03,Mon_02_03,A006,"BEE",T184,"Prof_DG",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Mon,03:04,Mon_03_04,A008,"Engg. Lab",T182,"Prof_DE",Block-B-Lab-05,Lab,LAB,A,1,b-wl-lab
+SEC33,Tue,10:11,Tue_10_11,A002,"Chem",T150,"Prof_BY",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC33,Tue,11:12,Tue_11_12,A010,"SY",T119,"Prof_T",Block-B-Lab-07,Lab,LAB,A,1,b-wl-lab
+SEC33,Tue,12:01,Tue_12_01,A012,"Chem. Lab",T103,"Prof_D",Block-B-Lab-08,Lab,LAB,A,1,b-wl-lab
+SEC33,Tue,02:03,Tue_02_03,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Tue,03:04,Tue_03_04,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Wed,10:11,Wed_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC33,Wed,11:12,Wed_11_12,A005,"E.Mech",T172,"Prof_CU",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Wed,12:01,Wed_12_01,A003,"Eng.",T163,"Prof_CL",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Wed,02:03,Wed_02_03,A001,"T&NM",T162,"Prof_CK",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC33,Wed,03:04,Wed_03_04,A006,"BEE",T186,"Prof_DI",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Thu,10:11,Thu_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-14,Classroom,THEORY,A,4,campus-17-class
+SEC33,Thu,11:12,Thu_11_12,A002,"Chem",T198,"Prof_DU",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC33,Thu,12:01,Thu_12_01,A005,"E.Mech",T104,"Prof_E",Block-17-Room-14,Classroom,THEORY,A,2,campus-17-class
+SEC33,Thu,02:03,Thu_02_03,A011,"Comm. Lab",T111,"Prof_L",Block-B-Lab-09,Lab,LAB,A,1,b-wl-lab
+SEC33,Thu,03:04,Thu_03_04,A002,"Chem",T100,"Prof_A",Block-17-Room-14,Classroom,THEORY,A,3,campus-17-class
+SEC33,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T100,"Prof_A",Block-B-Lab-01,Lab,LAB,A,1,b-wl-lab
+SEC34,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC34,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC34,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC34,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC34,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-15,Multi-Purpose,Elective,A,2,campus-17-class
+SEC34,Mon,10:11,Mon_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC34,Mon,11:12,Mon_11_12,A001,"T&NM",T108,"Prof_I",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC34,Mon,12:01,Mon_12_01,A011,"Comm. Lab",T103,"Prof_D",Block-C-Lab-03,Lab,LAB,A,1,c-wl-lab
+SEC34,Mon,02:03,Mon_02_03,A003,"Eng.",T114,"Prof_O",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Mon,03:04,Mon_03_04,A008,"Engg. Lab",T104,"Prof_E",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC34,Tue,10:11,Tue_10_11,A005,"E.Mech",T104,"Prof_E",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Tue,11:12,Tue_11_12,A010,"SY",T163,"Prof_CL",Block-C-Lab-07,Lab,LAB,A,1,c-wl-lab
+SEC34,Tue,12:01,Tue_12_01,A006,"BEE",T195,"Prof_DR",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Tue,02:03,Tue_02_03,A005,"E.Mech",T104,"Prof_E",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Tue,03:04,Tue_03_04,A002,"Chem",T174,"Prof_CW",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC34,Wed,10:11,Wed_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC34,Wed,11:12,Wed_11_12,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC34,Wed,02:03,Wed_02_03,A004,"B. Etc.",T171,"Prof_CT",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Wed,03:04,Wed_03_04,A012,"Chem. Lab",T103,"Prof_D",Block-C-Lab-05,Lab,LAB,A,1,c-wl-lab
+SEC34,Thu,10:11,Thu_10_11,A009,"Workshop",T139,"Prof_BN",Block-C-Lab-06,Lab,LAB,A,1,c-wl-lab
+SEC34,Thu,11:12,Thu_11_12,A006,"BEE",T102,"Prof_C",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC34,Thu,12:01,Thu_12_01,A002,"Chem",T100,"Prof_A",Block-17-Room-15,Classroom,THEORY,A,3,campus-17-class
+SEC34,Thu,02:03,Thu_02_03,A007,"  BEtc ./E.Mech. Lab",T100,"Prof_A",Block-C-Lab-09,Lab,LAB,A,1,c-wl-lab
+SEC34,Thu,03:04,Thu_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-15,Classroom,THEORY,A,4,campus-17-class
+SEC34,Fri,10:11,Fri_10_11,A003,"Eng.",T101,"Prof_B",Block-17-Room-15,Classroom,THEORY,A,2,campus-17-class
+SEC35,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC35,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC35,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC35,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC35,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-16,Multi-Purpose,Elective,A,2,campus-17-class
+SEC35,Mon,10:11,Mon_10_11,A009,"Workshop",T149,"Prof_BX",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC35,Mon,11:12,Mon_11_12,A002,"Chem",T100,"Prof_A",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC35,Mon,12:01,Mon_12_01,A003,"Eng.",T163,"Prof_CL",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Mon,02:03,Mon_02_03,A005,"E.Mech",T172,"Prof_CU",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Mon,03:04,Mon_03_04,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Tue,10:11,Tue_10_11,A006,"BEE",T120,"Prof_U",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Tue,11:12,Tue_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-LAB-Lab-07,Lab,LAB,A,1,lab-cam-3-lab
+SEC35,Tue,12:01,Tue_12_01,A002,"Chem",T174,"Prof_CW",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC35,Tue,02:03,Tue_02_03,A001,"T&NM",T108,"Prof_I",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC35,Tue,03:04,Tue_03_04,A003,"Eng.",T101,"Prof_B",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Wed,10:11,Wed_10_11,A011,"Comm. Lab",T197,"Prof_DT",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC35,Wed,11:12,Wed_11_12,A006,"BEE",T193,"Prof_DP",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Wed,12:01,Wed_12_01,A001,"T&NM",T108,"Prof_I",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC35,Wed,02:03,Wed_02_03,A004,"B. Etc.",T195,"Prof_DR",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Wed,03:04,Wed_03_04,A012,"Chem. Lab",T103,"Prof_D",Block-LAB-Lab-05,Lab,LAB,A,1,lab-cam-3-lab
+SEC35,Thu,10:11,Thu_10_11,A010,"SY",T100,"Prof_A",Block-LAB-Lab-06,Lab,LAB,A,1,lab-cam-3-lab
+SEC35,Thu,11:12,Thu_11_12,A005,"E.Mech",T194,"Prof_DQ",Block-17-Room-16,Classroom,THEORY,A,2,campus-17-class
+SEC35,Thu,12:01,Thu_12_01,A001,"T&NM",T175,"Prof_CX",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC35,Thu,02:03,Thu_02_03,A002,"Chem",T198,"Prof_DU",Block-17-Room-16,Classroom,THEORY,A,3,campus-17-class
+SEC35,Thu,03:04,Thu_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-16,Classroom,THEORY,A,4,campus-17-class
+SEC35,Fri,10:11,Fri_10_11,A007,"  BEtc ./E.Mech. Lab",T100,"Prof_A",Block-LAB-Lab-01,Lab,LAB,A,1,lab-cam-3-lab
+SEC36,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC36,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC36,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC36,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC36,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_A,"Elective Coordinator A",Block-17-Multi-17,Multi-Purpose,Elective,A,2,campus-17-class
+SEC36,Mon,10:11,Mon_10_11,A012,"Chem. Lab",T103,"Prof_D",Block-A-Lab-01,Lab,LAB,A,1,a-dl-lab
+SEC36,Mon,11:12,Mon_11_12,A002,"Chem",T100,"Prof_A",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC36,Mon,12:01,Mon_12_01,A005,"E.Mech",T172,"Prof_CU",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Mon,02:03,Mon_02_03,A003,"Eng.",T101,"Prof_B",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Mon,03:04,Mon_03_04,A001,"T&NM",T181,"Prof_DD",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC36,Tue,10:11,Tue_10_11,A007,"  BEtc ./E.Mech. Lab",T165,"Prof_CN",Block-A-Lab-06,Lab,LAB,A,1,a-dl-lab
+SEC36,Tue,11:12,Tue_11_12,A008,"Engg. Lab",T104,"Prof_E",Block-A-Lab-07,Lab,LAB,A,1,a-dl-lab
+SEC36,Tue,12:01,Tue_12_01,A006,"BEE",T102,"Prof_C",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Tue,02:03,Tue_02_03,A002,"Chem",T100,"Prof_A",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC36,Tue,03:04,Tue_03_04,A009,"Workshop",T104,"Prof_E",Block-A-Lab-10,Lab,LAB,A,1,a-dl-lab
+SEC36,Wed,10:11,Wed_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC36,Wed,11:12,Wed_11_12,A005,"E.Mech",T104,"Prof_E",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Wed,12:01,Wed_12_01,A011,"Comm. Lab",T176,"Prof_CY",Block-A-Lab-03,Lab,LAB,A,1,a-dl-lab
+SEC36,Wed,02:03,Wed_02_03,A010,"SY",T175,"Prof_CX",Block-A-Lab-04,Lab,LAB,A,1,a-dl-lab
+SEC36,Wed,03:04,Wed_03_04,A001,"T&NM",T108,"Prof_I",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC36,Thu,10:11,Thu_10_11,A001,"T&NM",T108,"Prof_I",Block-17-Room-17,Classroom,THEORY,A,4,campus-17-class
+SEC36,Thu,11:12,Thu_11_12,A004,"B. Etc.",T102,"Prof_C",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Thu,12:01,Thu_12_01,A006,"BEE",T102,"Prof_C",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Thu,02:03,Thu_02_03,A003,"Eng.",T101,"Prof_B",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Thu,03:04,Thu_03_04,A004,"B. Etc.",T195,"Prof_DR",Block-17-Room-17,Classroom,THEORY,A,2,campus-17-class
+SEC36,Fri,10:11,Fri_10_11,A002,"Chem",T100,"Prof_A",Block-17-Room-17,Classroom,THEORY,A,3,campus-17-class
+SEC37,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC37,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC37,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC37,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC37,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC37,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-01,Lab,LAB,B,2,b-wl-lab
+SEC37,Mon,11:12,Mon_11_12,B006,"ED&Graphics.",T154,"Prof_CC",Block-B-Lab-02,Lab,LAB,B,1,b-wl-lab
+SEC37,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC37,Mon,02:03,Mon_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC37,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC37,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC37,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC37,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC37,Tue,02:03,Tue_02_03,B002,"Phy.",T197,"Prof_DT",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC37,Tue,03:04,Tue_03_04,B005," Phy. Lab",T176,"Prof_CY",Block-B-Lab-10,Lab,LAB,B,1,b-wl-lab
+SEC37,Wed,10:11,Wed_10_11,B007,"PL(T) & Prog. Lab",T119,"Prof_T",Block-B-Lab-01,Lab,LAB,B,2,b-wl-lab
+SEC37,Wed,11:12,Wed_11_12,B004,"EVS",T125,"Prof_Z",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC37,Wed,12:01,Wed_12_01,B004,"EVS",T116,"Prof_Q",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC37,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC37,Wed,03:04,Wed_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC38,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC38,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC38,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC38,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC38,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC38,Mon,10:11,Mon_10_11,B002,"Phy.",T172,"Prof_CU",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC38,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC38,Mon,12:01,Mon_12_01,B002,"Phy.",T194,"Prof_DQ",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC38,Mon,02:03,Mon_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC38,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T110,"Prof_K",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC38,Tue,10:11,Tue_10_11,B005," Phy. Lab",T189,"Prof_DL",Block-C-Lab-06,Lab,LAB,B,1,c-wl-lab
+SEC38,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-C-Lab-07,Lab,LAB,B,2,c-wl-lab
+SEC38,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC38,Tue,02:03,Tue_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC38,Tue,03:04,Tue_03_04,B001,"T&NM",T192,"Prof_DO",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC38,Wed,10:11,Wed_10_11,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-01,Lab,LAB,B,1,c-wl-lab
+SEC38,Wed,11:12,Wed_11_12,B004,"EVS",T177,"Prof_CZ",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC38,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC38,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC38,Wed,03:04,Wed_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC39,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC39,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC39,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC39,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC39,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC39,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-01,Lab,LAB,B,2,lab-cam-3-lab
+SEC39,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-02,Lab,LAB,B,2,lab-cam-3-lab
+SEC39,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC39,Mon,02:03,Mon_02_03,B001,"T&NM",T179,"Prof_DB",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC39,Mon,03:04,Mon_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC39,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC39,Tue,11:12,Tue_11_12,B004,"EVS",T147,"Prof_BV",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC39,Tue,12:01,Tue_12_01,B002,"Phy.",T196,"Prof_DS",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC39,Tue,02:03,Tue_02_03,B005," Phy. Lab",T151,"Prof_BZ",Block-LAB-Lab-09,Lab,LAB,B,1,lab-cam-3-lab
+SEC39,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T164,"Prof_CM",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC39,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC39,Wed,11:12,Wed_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-02,Lab,LAB,B,1,lab-cam-3-lab
+SEC39,Wed,12:01,Wed_12_01,B004,"EVS",T165,"Prof_CN",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC39,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC39,Wed,03:04,Wed_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC40,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC40,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC40,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC40,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC40,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC40,Mon,10:11,Mon_10_11,B002,"Phy.",T194,"Prof_DQ",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC40,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC40,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC40,Mon,02:03,Mon_02_03,B001,"T&NM",T185,"Prof_DH",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC40,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC40,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T116,"Prof_Q",Block-A-Lab-06,Lab,LAB,B,1,a-dl-lab
+SEC40,Tue,11:12,Tue_11_12,B005," Phy. Lab",T151,"Prof_BZ",Block-A-Lab-07,Lab,LAB,B,1,a-dl-lab
+SEC40,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC40,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC40,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC40,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC40,Wed,11:12,Wed_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-02,Lab,LAB,B,2,a-dl-lab
+SEC40,Wed,12:01,Wed_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC40,Wed,02:03,Wed_02_03,B004,"EVS",T177,"Prof_CZ",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC40,Wed,03:04,Wed_03_04,B004,"EVS",T119,"Prof_T",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC41,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC41,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC41,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC41,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC41,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC41,Mon,10:11,Mon_10_11,B005," Phy. Lab",T168,"Prof_CQ",Block-B-Lab-01,Lab,LAB,B,1,b-wl-lab
+SEC41,Mon,11:12,Mon_11_12,B003,"Sc.LS.",T125,"Prof_Z",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC41,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC41,Mon,02:03,Mon_02_03,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-B-Lab-04,Lab,LAB,B,2,b-wl-lab
+SEC41,Mon,03:04,Mon_03_04,B004,"EVS",T190,"Prof_DM",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC41,Tue,10:11,Tue_10_11,B002,"Phy.",T196,"Prof_DS",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC41,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC41,Tue,12:01,Tue_12_01,B007,"PL(T) & Prog. Lab",T190,"Prof_DM",Block-B-Lab-08,Lab,LAB,B,2,b-wl-lab
+SEC41,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC41,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC41,Wed,10:11,Wed_10_11,B004,"EVS",T155,"Prof_CD",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC41,Wed,11:12,Wed_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-B-Lab-02,Lab,LAB,B,1,b-wl-lab
+SEC41,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC41,Wed,02:03,Wed_02_03,B003,"Sc.LS.",T186,"Prof_DI",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC41,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC42,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC42,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC42,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC42,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC42,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC42,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC42,Mon,11:12,Mon_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC42,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC42,Mon,02:03,Mon_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC42,Mon,03:04,Mon_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC42,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC42,Tue,11:12,Tue_11_12,B005," Phy. Lab",T176,"Prof_CY",Block-C-Lab-07,Lab,LAB,B,1,c-wl-lab
+SEC42,Tue,12:01,Tue_12_01,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-C-Lab-08,Lab,LAB,B,2,c-wl-lab
+SEC42,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC42,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC42,Wed,10:11,Wed_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC42,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC42,Wed,12:01,Wed_12_01,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-03,Lab,LAB,B,1,c-wl-lab
+SEC42,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC42,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T137,"Prof_BL",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC43,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC43,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC43,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC43,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC43,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC43,Mon,10:11,Mon_10_11,B004,"EVS",T177,"Prof_CZ",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC43,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC43,Mon,12:01,Mon_12_01,B005," Phy. Lab",T151,"Prof_BZ",Block-LAB-Lab-03,Lab,LAB,B,1,lab-cam-3-lab
+SEC43,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC43,Mon,03:04,Mon_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC43,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC43,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T140,"Prof_BO",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC43,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC43,Tue,02:03,Tue_02_03,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-LAB-Lab-09,Lab,LAB,B,2,lab-cam-3-lab
+SEC43,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC43,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC43,Wed,11:12,Wed_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-02,Lab,LAB,B,1,lab-cam-3-lab
+SEC43,Wed,12:01,Wed_12_01,B004,"EVS",T195,"Prof_DR",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC43,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC43,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-05,Lab,LAB,B,2,lab-cam-3-lab
+SEC44,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC44,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC44,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC44,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC44,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC44,Mon,10:11,Mon_10_11,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-01,Lab,LAB,B,1,a-dl-lab
+SEC44,Mon,11:12,Mon_11_12,B004,"EVS",T169,"Prof_CR",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC44,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC44,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC44,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC44,Tue,10:11,Tue_10_11,B007,"PL(T) & Prog. Lab",T138,"Prof_BM",Block-A-Lab-06,Lab,LAB,B,2,a-dl-lab
+SEC44,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T177,"Prof_CZ",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC44,Tue,12:01,Tue_12_01,B006,"ED&Graphics.",T188,"Prof_DK",Block-A-Lab-08,Lab,LAB,B,1,a-dl-lab
+SEC44,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC44,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC44,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC44,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC44,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC44,Wed,02:03,Wed_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC44,Wed,03:04,Wed_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC45,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC45,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC45,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC45,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC45,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC45,Mon,10:11,Mon_10_11,B002,"Phy.",T196,"Prof_DS",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC45,Mon,11:12,Mon_11_12,B004,"EVS",T193,"Prof_DP",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC45,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC45,Mon,02:03,Mon_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-04,Lab,LAB,B,2,b-wl-lab
+SEC45,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC45,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC45,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC45,Tue,12:01,Tue_12_01,B004,"EVS",T147,"Prof_BV",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC45,Tue,02:03,Tue_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-09,Lab,LAB,B,2,b-wl-lab
+SEC45,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T177,"Prof_CZ",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC45,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC45,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC45,Wed,12:01,Wed_12_01,B005," Phy. Lab",T170,"Prof_CS",Block-B-Lab-03,Lab,LAB,B,1,b-wl-lab
+SEC45,Wed,02:03,Wed_02_03,B006,"ED&Graphics.",T151,"Prof_BZ",Block-B-Lab-04,Lab,LAB,B,1,b-wl-lab
+SEC45,Wed,03:04,Wed_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC46,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC46,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC46,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC46,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC46,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC46,Mon,10:11,Mon_10_11,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-01,Lab,LAB,B,1,c-wl-lab
+SEC46,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC46,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-03,Lab,LAB,B,2,c-wl-lab
+SEC46,Mon,02:03,Mon_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC46,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T137,"Prof_BL",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC46,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC46,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC46,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC46,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC46,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC46,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC46,Wed,11:12,Wed_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC46,Wed,12:01,Wed_12_01,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-03,Lab,LAB,B,1,c-wl-lab
+SEC46,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC46,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC47,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC47,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC47,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC47,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC47,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC47,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC47,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC47,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC47,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC47,Mon,03:04,Mon_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC47,Tue,10:11,Tue_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-06,Lab,LAB,B,2,lab-cam-3-lab
+SEC47,Tue,11:12,Tue_11_12,B004,"EVS",T178,"Prof_DA",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC47,Tue,12:01,Tue_12_01,B003,"Sc.LS.",T182,"Prof_DE",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC47,Tue,02:03,Tue_02_03,B005," Phy. Lab",T154,"Prof_CC",Block-LAB-Lab-09,Lab,LAB,B,1,lab-cam-3-lab
+SEC47,Tue,03:04,Tue_03_04,B004,"EVS",T190,"Prof_DM",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC47,Wed,10:11,Wed_10_11,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-01,Lab,LAB,B,1,lab-cam-3-lab
+SEC47,Wed,11:12,Wed_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC47,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC47,Wed,02:03,Wed_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-04,Lab,LAB,B,2,lab-cam-3-lab
+SEC47,Wed,03:04,Wed_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC48,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC48,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC48,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC48,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC48,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC48,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC48,Mon,11:12,Mon_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC48,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC48,Mon,02:03,Mon_02_03,B002,"Phy.",T194,"Prof_DQ",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC48,Mon,03:04,Mon_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC48,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC48,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T186,"Prof_DI",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC48,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC48,Tue,02:03,Tue_02_03,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-09,Lab,LAB,B,1,a-dl-lab
+SEC48,Tue,03:04,Tue_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-10,Lab,LAB,B,2,a-dl-lab
+SEC48,Wed,10:11,Wed_10_11,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-01,Lab,LAB,B,1,a-dl-lab
+SEC48,Wed,11:12,Wed_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC48,Wed,12:01,Wed_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC48,Wed,02:03,Wed_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC48,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC49,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC49,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC49,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC49,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC49,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC49,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC49,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-02,Lab,LAB,B,2,b-wl-lab
+SEC49,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC49,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC49,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC49,Tue,10:11,Tue_10_11,B005," Phy. Lab",T197,"Prof_DT",Block-B-Lab-06,Lab,LAB,B,1,b-wl-lab
+SEC49,Tue,11:12,Tue_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC49,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC49,Tue,02:03,Tue_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-09,Lab,LAB,B,2,b-wl-lab
+SEC49,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC49,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC49,Wed,11:12,Wed_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC49,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC49,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC49,Wed,03:04,Wed_03_04,B006,"ED&Graphics.",T113,"Prof_N",Block-B-Lab-05,Lab,LAB,B,1,b-wl-lab
+SEC50,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC50,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC50,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC50,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC50,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC50,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC50,Mon,11:12,Mon_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC50,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC50,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC50,Mon,03:04,Mon_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC50,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC50,Tue,11:12,Tue_11_12,B006,"ED&Graphics.",T160,"Prof_CI",Block-C-Lab-07,Lab,LAB,B,1,c-wl-lab
+SEC50,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC50,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC50,Tue,03:04,Tue_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-10,Lab,LAB,B,2,c-wl-lab
+SEC50,Wed,10:11,Wed_10_11,B007,"PL(T) & Prog. Lab",T199,"Prof_DV",Block-C-Lab-01,Lab,LAB,B,2,c-wl-lab
+SEC50,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC50,Wed,12:01,Wed_12_01,B003,"Sc.LS.",T164,"Prof_CM",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC50,Wed,02:03,Wed_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC50,Wed,03:04,Wed_03_04,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-05,Lab,LAB,B,1,c-wl-lab
+SEC51,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC51,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC51,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC51,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC51,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC51,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC51,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-02,Lab,LAB,B,2,lab-cam-3-lab
+SEC51,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC51,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC51,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC51,Tue,10:11,Tue_10_11,B004,"EVS",T195,"Prof_DR",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC51,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC51,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC51,Tue,02:03,Tue_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC51,Tue,03:04,Tue_03_04,B005," Phy. Lab",T187,"Prof_DJ",Block-LAB-Lab-10,Lab,LAB,B,1,lab-cam-3-lab
+SEC51,Wed,10:11,Wed_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC51,Wed,11:12,Wed_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-02,Lab,LAB,B,1,lab-cam-3-lab
+SEC51,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC51,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC51,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-05,Lab,LAB,B,2,lab-cam-3-lab
+SEC52,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC52,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC52,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC52,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC52,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC52,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-01,Lab,LAB,B,2,a-dl-lab
+SEC52,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-02,Lab,LAB,B,2,a-dl-lab
+SEC52,Mon,12:01,Mon_12_01,B004,"EVS",T193,"Prof_DP",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC52,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC52,Mon,03:04,Mon_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC52,Tue,10:11,Tue_10_11,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-06,Lab,LAB,B,1,a-dl-lab
+SEC52,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC52,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC52,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC52,Tue,03:04,Tue_03_04,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-10,Lab,LAB,B,1,a-dl-lab
+SEC52,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC52,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC52,Wed,12:01,Wed_12_01,B003,"Sc.LS.",T186,"Prof_DI",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC52,Wed,02:03,Wed_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC52,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC53,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-14,Multi-Purpose,Elective,B,2,campus-8class
+SEC53,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-14,Multi-Purpose,Elective,B,2,campus-8class
+SEC53,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-14,Multi-Purpose,Elective,B,2,campus-8class
+SEC53,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-14,Multi-Purpose,Elective,B,2,campus-8class
+SEC53,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-14,Multi-Purpose,Elective,B,2,campus-8class
+SEC53,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-01,Lab,LAB,B,2,b-wl-lab
+SEC53,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-14,Classroom,THEORY,B,4,campus-8class
+SEC53,Mon,12:01,Mon_12_01,B005," Phy. Lab",T105,"Prof_F",Block-B-Lab-03,Lab,LAB,B,1,b-wl-lab
+SEC53,Mon,02:03,Mon_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-04,Lab,LAB,B,2,b-wl-lab
+SEC53,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-14,Classroom,THEORY,B,2,campus-8class
+SEC53,Tue,10:11,Tue_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-14,Classroom,THEORY,B,3,campus-8class
+SEC53,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-14,Classroom,THEORY,B,3,campus-8class
+SEC53,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-14,Classroom,THEORY,B,3,campus-8class
+SEC53,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-14,Classroom,THEORY,B,2,campus-8class
+SEC53,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-14,Classroom,THEORY,B,2,campus-8class
+SEC53,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-14,Classroom,THEORY,B,4,campus-8class
+SEC53,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-14,Classroom,THEORY,B,4,campus-8class
+SEC53,Wed,12:01,Wed_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-14,Classroom,THEORY,B,2,campus-8class
+SEC53,Wed,02:03,Wed_02_03,B006,"ED&Graphics.",T180,"Prof_DC",Block-B-Lab-04,Lab,LAB,B,1,b-wl-lab
+SEC53,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-14,Classroom,THEORY,B,4,campus-8class
+SEC54,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-15,Multi-Purpose,Elective,B,2,campus-8class
+SEC54,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-15,Multi-Purpose,Elective,B,2,campus-8class
+SEC54,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-15,Multi-Purpose,Elective,B,2,campus-8class
+SEC54,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-15,Multi-Purpose,Elective,B,2,campus-8class
+SEC54,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-15,Multi-Purpose,Elective,B,2,campus-8class
+SEC54,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-15,Classroom,THEORY,B,3,campus-8class
+SEC54,Mon,11:12,Mon_11_12,B006,"ED&Graphics.",T180,"Prof_DC",Block-C-Lab-02,Lab,LAB,B,1,c-wl-lab
+SEC54,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-15,Classroom,THEORY,B,3,campus-8class
+SEC54,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-15,Classroom,THEORY,B,4,campus-8class
+SEC54,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-15,Classroom,THEORY,B,2,campus-8class
+SEC54,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-15,Classroom,THEORY,B,4,campus-8class
+SEC54,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-15,Classroom,THEORY,B,3,campus-8class
+SEC54,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-15,Classroom,THEORY,B,4,campus-8class
+SEC54,Tue,02:03,Tue_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-09,Lab,LAB,B,2,c-wl-lab
+SEC54,Tue,03:04,Tue_03_04,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-10,Lab,LAB,B,1,c-wl-lab
+SEC54,Wed,10:11,Wed_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-15,Classroom,THEORY,B,2,campus-8class
+SEC54,Wed,11:12,Wed_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-15,Classroom,THEORY,B,2,campus-8class
+SEC54,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-15,Classroom,THEORY,B,4,campus-8class
+SEC54,Wed,02:03,Wed_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-15,Classroom,THEORY,B,2,campus-8class
+SEC54,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC55,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-16,Multi-Purpose,Elective,B,2,campus-8class
+SEC55,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-16,Multi-Purpose,Elective,B,2,campus-8class
+SEC55,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-16,Multi-Purpose,Elective,B,2,campus-8class
+SEC55,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-16,Multi-Purpose,Elective,B,2,campus-8class
+SEC55,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-16,Multi-Purpose,Elective,B,2,campus-8class
+SEC55,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-01,Lab,LAB,B,2,lab-cam-3-lab
+SEC55,Mon,11:12,Mon_11_12,B005," Phy. Lab",T188,"Prof_DK",Block-LAB-Lab-02,Lab,LAB,B,1,lab-cam-3-lab
+SEC55,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-16,Classroom,THEORY,B,3,campus-8class
+SEC55,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-16,Classroom,THEORY,B,4,campus-8class
+SEC55,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-16,Classroom,THEORY,B,4,campus-8class
+SEC55,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-16,Classroom,THEORY,B,2,campus-8class
+SEC55,Tue,11:12,Tue_11_12,B006,"ED&Graphics.",T191,"Prof_DN",Block-LAB-Lab-07,Lab,LAB,B,1,lab-cam-3-lab
+SEC55,Tue,12:01,Tue_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-16,Classroom,THEORY,B,2,campus-8class
+SEC55,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-16,Classroom,THEORY,B,2,campus-8class
+SEC55,Tue,03:04,Tue_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-10,Lab,LAB,B,2,lab-cam-3-lab
+SEC55,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-16,Classroom,THEORY,B,3,campus-8class
+SEC55,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-16,Classroom,THEORY,B,4,campus-8class
+SEC55,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-16,Classroom,THEORY,B,4,campus-8class
+SEC55,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-16,Classroom,THEORY,B,3,campus-8class
+SEC55,Wed,03:04,Wed_03_04,B004,"EVS",T195,"Prof_DR",Block-8-Room-16,Classroom,THEORY,B,2,campus-8class
+SEC56,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-17,Multi-Purpose,Elective,B,2,campus-8class
+SEC56,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-17,Multi-Purpose,Elective,B,2,campus-8class
+SEC56,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-17,Multi-Purpose,Elective,B,2,campus-8class
+SEC56,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-17,Multi-Purpose,Elective,B,2,campus-8class
+SEC56,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-17,Multi-Purpose,Elective,B,2,campus-8class
+SEC56,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-17,Classroom,THEORY,B,4,campus-8class
+SEC56,Mon,11:12,Mon_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-17,Classroom,THEORY,B,2,campus-8class
+SEC56,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC56,Mon,02:03,Mon_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-04,Lab,LAB,B,2,a-dl-lab
+SEC56,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-17,Classroom,THEORY,B,4,campus-8class
+SEC56,Tue,10:11,Tue_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-17,Classroom,THEORY,B,3,campus-8class
+SEC56,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-17,Classroom,THEORY,B,4,campus-8class
+SEC56,Tue,12:01,Tue_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-17,Classroom,THEORY,B,2,campus-8class
+SEC56,Tue,02:03,Tue_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-17,Classroom,THEORY,B,2,campus-8class
+SEC56,Tue,03:04,Tue_03_04,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-10,Lab,LAB,B,1,a-dl-lab
+SEC56,Wed,10:11,Wed_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-17,Classroom,THEORY,B,2,campus-8class
+SEC56,Wed,11:12,Wed_11_12,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-02,Lab,LAB,B,1,a-dl-lab
+SEC56,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-17,Classroom,THEORY,B,3,campus-8class
+SEC56,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-17,Classroom,THEORY,B,3,campus-8class
+SEC56,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-17,Classroom,THEORY,B,4,campus-8class
+SEC57,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC57,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC57,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC57,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC57,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-18,Multi-Purpose,Elective,B,2,campus-8class
+SEC57,Mon,10:11,Mon_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC57,Mon,11:12,Mon_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC57,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC57,Mon,02:03,Mon_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-04,Lab,LAB,B,2,b-wl-lab
+SEC57,Mon,03:04,Mon_03_04,B006,"ED&Graphics.",T151,"Prof_BZ",Block-B-Lab-05,Lab,LAB,B,1,b-wl-lab
+SEC57,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC57,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC57,Tue,12:01,Tue_12_01,B005," Phy. Lab",T176,"Prof_CY",Block-B-Lab-08,Lab,LAB,B,1,b-wl-lab
+SEC57,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC57,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC57,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC57,Wed,11:12,Wed_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-02,Lab,LAB,B,2,b-wl-lab
+SEC57,Wed,12:01,Wed_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-18,Classroom,THEORY,B,2,campus-8class
+SEC57,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-18,Classroom,THEORY,B,3,campus-8class
+SEC57,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-18,Classroom,THEORY,B,4,campus-8class
+SEC58,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC58,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC58,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC58,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC58,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-19,Multi-Purpose,Elective,B,2,campus-8class
+SEC58,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC58,Mon,11:12,Mon_11_12,B003,"Sc.LS.",T140,"Prof_BO",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC58,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC58,Mon,02:03,Mon_02_03,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-04,Lab,LAB,B,1,c-wl-lab
+SEC58,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T198,"Prof_DU",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC58,Tue,10:11,Tue_10_11,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-06,Lab,LAB,B,1,c-wl-lab
+SEC58,Tue,11:12,Tue_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC58,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC58,Tue,02:03,Tue_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-09,Lab,LAB,B,2,c-wl-lab
+SEC58,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC58,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC58,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC58,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-19,Classroom,THEORY,B,4,campus-8class
+SEC58,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-19,Classroom,THEORY,B,3,campus-8class
+SEC58,Wed,03:04,Wed_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-19,Classroom,THEORY,B,2,campus-8class
+SEC59,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC59,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC59,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC59,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC59,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-20,Multi-Purpose,Elective,B,2,campus-8class
+SEC59,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-01,Lab,LAB,B,2,lab-cam-3-lab
+SEC59,Mon,11:12,Mon_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC59,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC59,Mon,02:03,Mon_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC59,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-05,Lab,LAB,B,2,lab-cam-3-lab
+SEC59,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC59,Tue,11:12,Tue_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC59,Tue,12:01,Tue_12_01,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-08,Lab,LAB,B,1,lab-cam-3-lab
+SEC59,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC59,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC59,Wed,10:11,Wed_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-20,Classroom,THEORY,B,2,campus-8class
+SEC59,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-20,Classroom,THEORY,B,4,campus-8class
+SEC59,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC59,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-20,Classroom,THEORY,B,3,campus-8class
+SEC59,Wed,03:04,Wed_03_04,B005," Phy. Lab",T105,"Prof_F",Block-LAB-Lab-05,Lab,LAB,B,1,lab-cam-3-lab
+SEC60,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC60,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC60,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC60,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC60,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-01,Multi-Purpose,Elective,B,2,campus-8class
+SEC60,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-01,Lab,LAB,B,2,a-dl-lab
+SEC60,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC60,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC60,Mon,02:03,Mon_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC60,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC60,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC60,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-07,Lab,LAB,B,2,a-dl-lab
+SEC60,Tue,12:01,Tue_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC60,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC60,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC60,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-01,Classroom,THEORY,B,3,campus-8class
+SEC60,Wed,11:12,Wed_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-01,Classroom,THEORY,B,2,campus-8class
+SEC60,Wed,12:01,Wed_12_01,B005," Phy. Lab",T184,"Prof_DG",Block-A-Lab-03,Lab,LAB,B,1,a-dl-lab
+SEC60,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-01,Classroom,THEORY,B,4,campus-8class
+SEC60,Wed,03:04,Wed_03_04,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-05,Lab,LAB,B,1,a-dl-lab
+SEC61,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC61,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC61,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC61,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC61,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-02,Multi-Purpose,Elective,B,2,campus-8class
+SEC61,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-01,Lab,LAB,B,2,b-wl-lab
+SEC61,Mon,11:12,Mon_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC61,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC61,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC61,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-05,Lab,LAB,B,2,b-wl-lab
+SEC61,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC61,Tue,11:12,Tue_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC61,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC61,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC61,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-02,Classroom,THEORY,B,4,campus-8class
+SEC61,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-02,Classroom,THEORY,B,3,campus-8class
+SEC61,Wed,11:12,Wed_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC61,Wed,12:01,Wed_12_01,B006,"ED&Graphics.",T113,"Prof_N",Block-B-Lab-03,Lab,LAB,B,1,b-wl-lab
+SEC61,Wed,02:03,Wed_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-02,Classroom,THEORY,B,2,campus-8class
+SEC61,Wed,03:04,Wed_03_04,B005," Phy. Lab",T105,"Prof_F",Block-B-Lab-05,Lab,LAB,B,1,b-wl-lab
+SEC62,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC62,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC62,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC62,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC62,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-03,Multi-Purpose,Elective,B,2,campus-8class
+SEC62,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC62,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-02,Lab,LAB,B,2,c-wl-lab
+SEC62,Mon,12:01,Mon_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC62,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC62,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC62,Tue,10:11,Tue_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-06,Lab,LAB,B,2,c-wl-lab
+SEC62,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC62,Tue,12:01,Tue_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC62,Tue,02:03,Tue_02_03,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-09,Lab,LAB,B,1,c-wl-lab
+SEC62,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-03,Classroom,THEORY,B,3,campus-8class
+SEC62,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC62,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-03,Classroom,THEORY,B,4,campus-8class
+SEC62,Wed,12:01,Wed_12_01,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-03,Lab,LAB,B,1,c-wl-lab
+SEC62,Wed,02:03,Wed_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC62,Wed,03:04,Wed_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-03,Classroom,THEORY,B,2,campus-8class
+SEC63,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC63,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC63,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC63,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC63,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-04,Multi-Purpose,Elective,B,2,campus-8class
+SEC63,Mon,10:11,Mon_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC63,Mon,11:12,Mon_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC63,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC63,Mon,02:03,Mon_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC63,Mon,03:04,Mon_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC63,Tue,10:11,Tue_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-06,Lab,LAB,B,2,lab-cam-3-lab
+SEC63,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-07,Lab,LAB,B,2,lab-cam-3-lab
+SEC63,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC63,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC63,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC63,Wed,10:11,Wed_10_11,B005," Phy. Lab",T105,"Prof_F",Block-LAB-Lab-01,Lab,LAB,B,1,lab-cam-3-lab
+SEC63,Wed,11:12,Wed_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-04,Classroom,THEORY,B,3,campus-8class
+SEC63,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-04,Classroom,THEORY,B,4,campus-8class
+SEC63,Wed,02:03,Wed_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-04,Classroom,THEORY,B,2,campus-8class
+SEC63,Wed,03:04,Wed_03_04,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-05,Lab,LAB,B,1,lab-cam-3-lab
+SEC64,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC64,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC64,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC64,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC64,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-05,Multi-Purpose,Elective,B,2,campus-8class
+SEC64,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC64,Mon,11:12,Mon_11_12,B006,"ED&Graphics.",T191,"Prof_DN",Block-A-Lab-02,Lab,LAB,B,1,a-dl-lab
+SEC64,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC64,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC64,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-05,Classroom,THEORY,B,4,campus-8class
+SEC64,Tue,10:11,Tue_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC64,Tue,11:12,Tue_11_12,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-07,Lab,LAB,B,1,a-dl-lab
+SEC64,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC64,Tue,02:03,Tue_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC64,Tue,03:04,Tue_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC64,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-05,Classroom,THEORY,B,3,campus-8class
+SEC64,Wed,11:12,Wed_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC64,Wed,12:01,Wed_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC64,Wed,02:03,Wed_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-04,Lab,LAB,B,2,a-dl-lab
+SEC64,Wed,03:04,Wed_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-05,Classroom,THEORY,B,2,campus-8class
+SEC65,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC65,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC65,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC65,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC65,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-06,Multi-Purpose,Elective,B,2,campus-8class
+SEC65,Mon,10:11,Mon_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC65,Mon,11:12,Mon_11_12,B005," Phy. Lab",T105,"Prof_F",Block-B-Lab-02,Lab,LAB,B,1,b-wl-lab
+SEC65,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC65,Mon,02:03,Mon_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC65,Mon,03:04,Mon_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC65,Tue,10:11,Tue_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC65,Tue,11:12,Tue_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-B-Lab-07,Lab,LAB,B,1,b-wl-lab
+SEC65,Tue,12:01,Tue_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-06,Classroom,THEORY,B,2,campus-8class
+SEC65,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC65,Tue,03:04,Tue_03_04,B002,"Phy.",T110,"Prof_K",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC65,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC65,Wed,11:12,Wed_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-06,Classroom,THEORY,B,3,campus-8class
+SEC65,Wed,12:01,Wed_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-06,Classroom,THEORY,B,4,campus-8class
+SEC65,Wed,02:03,Wed_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-04,Lab,LAB,B,2,b-wl-lab
+SEC65,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-05,Lab,LAB,B,2,b-wl-lab
+SEC66,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC66,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC66,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC66,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC66,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-07,Multi-Purpose,Elective,B,2,campus-8class
+SEC66,Mon,10:11,Mon_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-01,Lab,LAB,B,2,c-wl-lab
+SEC66,Mon,11:12,Mon_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC66,Mon,12:01,Mon_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC66,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC66,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC66,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T191,"Prof_DN",Block-C-Lab-06,Lab,LAB,B,1,c-wl-lab
+SEC66,Tue,11:12,Tue_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC66,Tue,12:01,Tue_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC66,Tue,02:03,Tue_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC66,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-07,Classroom,THEORY,B,2,campus-8class
+SEC66,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-07,Classroom,THEORY,B,3,campus-8class
+SEC66,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC66,Wed,12:01,Wed_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-03,Lab,LAB,B,2,c-wl-lab
+SEC66,Wed,02:03,Wed_02_03,B005," Phy. Lab",T184,"Prof_DG",Block-C-Lab-04,Lab,LAB,B,1,c-wl-lab
+SEC66,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-07,Classroom,THEORY,B,4,campus-8class
+SEC67,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC67,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC67,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC67,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC67,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-08,Multi-Purpose,Elective,B,2,campus-8class
+SEC67,Mon,10:11,Mon_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC67,Mon,11:12,Mon_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-02,Lab,LAB,B,1,lab-cam-3-lab
+SEC67,Mon,12:01,Mon_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC67,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC67,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-05,Lab,LAB,B,2,lab-cam-3-lab
+SEC67,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC67,Tue,11:12,Tue_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC67,Tue,12:01,Tue_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC67,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC67,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-08,Classroom,THEORY,B,2,campus-8class
+SEC67,Wed,10:11,Wed_10_11,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-01,Lab,LAB,B,2,lab-cam-3-lab
+SEC67,Wed,11:12,Wed_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-08,Classroom,THEORY,B,3,campus-8class
+SEC67,Wed,12:01,Wed_12_01,B005," Phy. Lab",T189,"Prof_DL",Block-LAB-Lab-03,Lab,LAB,B,1,lab-cam-3-lab
+SEC67,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC67,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-08,Classroom,THEORY,B,4,campus-8class
+SEC68,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC68,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC68,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC68,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC68,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-09,Multi-Purpose,Elective,B,2,campus-8class
+SEC68,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC68,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-02,Lab,LAB,B,2,a-dl-lab
+SEC68,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC68,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC68,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC68,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC68,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC68,Tue,12:01,Tue_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC68,Tue,02:03,Tue_02_03,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-09,Lab,LAB,B,1,a-dl-lab
+SEC68,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC68,Wed,10:11,Wed_10_11,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-01,Lab,LAB,B,1,a-dl-lab
+SEC68,Wed,11:12,Wed_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC68,Wed,12:01,Wed_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-09,Classroom,THEORY,B,2,campus-8class
+SEC68,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-09,Classroom,THEORY,B,3,campus-8class
+SEC68,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-09,Classroom,THEORY,B,4,campus-8class
+SEC69,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC69,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC69,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC69,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC69,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-10,Multi-Purpose,Elective,B,2,campus-8class
+SEC69,Mon,10:11,Mon_10_11,B006,"ED&Graphics.",T160,"Prof_CI",Block-B-Lab-01,Lab,LAB,B,1,b-wl-lab
+SEC69,Mon,11:12,Mon_11_12,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-02,Lab,LAB,B,2,b-wl-lab
+SEC69,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC69,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC69,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC69,Tue,10:11,Tue_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC69,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC69,Tue,12:01,Tue_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC69,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC69,Tue,03:04,Tue_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-B-Lab-10,Lab,LAB,B,2,b-wl-lab
+SEC69,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-10,Classroom,THEORY,B,3,campus-8class
+SEC69,Wed,11:12,Wed_11_12,B005," Phy. Lab",T105,"Prof_F",Block-B-Lab-02,Lab,LAB,B,1,b-wl-lab
+SEC69,Wed,12:01,Wed_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-10,Classroom,THEORY,B,2,campus-8class
+SEC69,Wed,02:03,Wed_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC69,Wed,03:04,Wed_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-10,Classroom,THEORY,B,4,campus-8class
+SEC70,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC70,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC70,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC70,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC70,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-11,Multi-Purpose,Elective,B,2,campus-8class
+SEC70,Mon,10:11,Mon_10_11,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC70,Mon,11:12,Mon_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC70,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-03,Lab,LAB,B,2,c-wl-lab
+SEC70,Mon,02:03,Mon_02_03,B005," Phy. Lab",T105,"Prof_F",Block-C-Lab-04,Lab,LAB,B,1,c-wl-lab
+SEC70,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC70,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T113,"Prof_N",Block-C-Lab-06,Lab,LAB,B,1,c-wl-lab
+SEC70,Tue,11:12,Tue_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC70,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC70,Tue,02:03,Tue_02_03,B004,"EVS",T111,"Prof_L",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC70,Tue,03:04,Tue_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC70,Wed,10:11,Wed_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-11,Classroom,THEORY,B,4,campus-8class
+SEC70,Wed,11:12,Wed_11_12,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-11,Classroom,THEORY,B,2,campus-8class
+SEC70,Wed,12:01,Wed_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC70,Wed,02:03,Wed_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-11,Classroom,THEORY,B,3,campus-8class
+SEC70,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-C-Lab-05,Lab,LAB,B,2,c-wl-lab
+SEC71,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC71,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC71,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC71,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC71,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-12,Multi-Purpose,Elective,B,2,campus-8class
+SEC71,Mon,10:11,Mon_10_11,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC71,Mon,11:12,Mon_11_12,B004,"EVS",T111,"Prof_L",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC71,Mon,12:01,Mon_12_01,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC71,Mon,02:03,Mon_02_03,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC71,Mon,03:04,Mon_03_04,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC71,Tue,10:11,Tue_10_11,B005," Phy. Lab",T105,"Prof_F",Block-LAB-Lab-06,Lab,LAB,B,1,lab-cam-3-lab
+SEC71,Tue,11:12,Tue_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-LAB-Lab-07,Lab,LAB,B,1,lab-cam-3-lab
+SEC71,Tue,12:01,Tue_12_01,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC71,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC71,Tue,03:04,Tue_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC71,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-12,Classroom,THEORY,B,3,campus-8class
+SEC71,Wed,11:12,Wed_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-12,Classroom,THEORY,B,4,campus-8class
+SEC71,Wed,12:01,Wed_12_01,B004,"EVS",T111,"Prof_L",Block-8-Room-12,Classroom,THEORY,B,2,campus-8class
+SEC71,Wed,02:03,Wed_02_03,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-04,Lab,LAB,B,2,lab-cam-3-lab
+SEC71,Wed,03:04,Wed_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-LAB-Lab-05,Lab,LAB,B,2,lab-cam-3-lab
+SEC72,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC72,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC72,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC72,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC72,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",ELT_COORD_B,"Elective Coordinator B",Block-8-Multi-13,Multi-Purpose,Elective,B,2,campus-8class
+SEC72,Mon,10:11,Mon_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC72,Mon,11:12,Mon_11_12,B006,"ED&Graphics.",T113,"Prof_N",Block-A-Lab-02,Lab,LAB,B,1,a-dl-lab
+SEC72,Mon,12:01,Mon_12_01,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-03,Lab,LAB,B,2,a-dl-lab
+SEC72,Mon,02:03,Mon_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC72,Mon,03:04,Mon_03_04,B007,"PL(T) & Prog. Lab",T109,"Prof_J",Block-A-Lab-05,Lab,LAB,B,2,a-dl-lab
+SEC72,Tue,10:11,Tue_10_11,B004,"EVS",T111,"Prof_L",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC72,Tue,11:12,Tue_11_12,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC72,Tue,12:01,Tue_12_01,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC72,Tue,02:03,Tue_02_03,B001,"T&NM",T108,"Prof_I",Block-8-Room-13,Classroom,THEORY,B,4,campus-8class
+SEC72,Tue,03:04,Tue_03_04,B004,"EVS",T111,"Prof_L",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC72,Wed,10:11,Wed_10_11,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC72,Wed,11:12,Wed_11_12,B002,"Phy.",T110,"Prof_K",Block-8-Room-13,Classroom,THEORY,B,3,campus-8class
+SEC72,Wed,12:01,Wed_12_01,B005," Phy. Lab",T105,"Prof_F",Block-A-Lab-03,Lab,LAB,B,1,a-dl-lab
+SEC72,Wed,02:03,Wed_02_03,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class
+SEC72,Wed,03:04,Wed_03_04,B003,"Sc.LS.",T114,"Prof_O",Block-8-Room-13,Classroom,THEORY,B,2,campus-8class

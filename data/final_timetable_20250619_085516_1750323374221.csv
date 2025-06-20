@@ -1,0 +1,1045 @@
+Section,Day,Time,TimeSlot,Subject,SubjectName,Teacher,TeacherName,Room,RoomType,ActivityType,Scheme,WeeklyHours
+SEC01,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC01,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC01,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC01,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC01,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC01,Mon,10:11,Mon_10_11,A001,"T&NM",T126,"Prof_BA",Classroom_01,Classroom,THEORY,A,4
+SEC01,Mon,11:12,Mon_11_12,A002,"Chem",T149,"Prof_BX",Classroom_02,Classroom,THEORY,A,3
+SEC01,Mon,12:01,Mon_12_01,A003,"Eng.",T106,"Prof_G",Classroom_03,Classroom,THEORY,A,2
+SEC01,Mon,02:03,Mon_02_03,A004,"B. Etc.",T162,"Prof_CK",Classroom_04,Classroom,THEORY,A,2
+SEC01,Mon,03:04,Mon_03_04,A005,"E.Mech",T180,"Prof_DC",Classroom_05,Classroom,THEORY,A,2
+SEC01,Tue,10:11,Tue_10_11,A006,"BEE",T114,"Prof_O",Classroom_06,Classroom,THEORY,A,2
+SEC01,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",T133,"Prof_BH",Lab_07,Lab,LAB,A,1
+SEC01,Tue,12:01,Tue_12_01,A008,"Engg. Lab",T147,"Prof_BV",Lab_08,Lab,LAB,A,1
+SEC01,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC01,Tue,03:04,Tue_03_04,A010,"SY",T111,"Prof_L",Lab_10,Lab,LAB,A,1
+SEC01,Wed,10:11,Wed_10_11,A011,"Comm. Lab",T140,"Prof_BO",Lab_01,Lab,LAB,A,1
+SEC01,Wed,11:12,Wed_11_12,A012,"Chem. Lab",T131,"Prof_BF",Lab_02,Lab,LAB,A,1
+SEC02,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC02,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC02,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC02,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC02,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC02,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC02,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC02,Mon,12:01,Mon_12_01,A003,"Eng.",T191,"Prof_DN",Classroom_03,Classroom,THEORY,A,2
+SEC02,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC02,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC02,Tue,10:11,Tue_10_11,A006,"BEE",T127,"Prof_BB",Classroom_06,Classroom,THEORY,A,2
+SEC02,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC02,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC02,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC02,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC02,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC02,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC03,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC03,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC03,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC03,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC03,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC03,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC03,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC03,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC03,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC03,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC03,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC03,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC03,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC03,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC03,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC03,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC03,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC04,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC04,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC04,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC04,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC04,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC04,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC04,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC04,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC04,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC04,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC04,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC04,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC04,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC04,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC04,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC04,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC04,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC05,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC05,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC05,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC05,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC05,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC05,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC05,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC05,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC05,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC05,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC05,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC05,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC05,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC05,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC05,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC05,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC05,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC06,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC06,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC06,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC06,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC06,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC06,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC06,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC06,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC06,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC06,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC06,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC06,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC06,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC06,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC06,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC06,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC06,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC07,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC07,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC07,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC07,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC07,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC07,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC07,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC07,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC07,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC07,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC07,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC07,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC07,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC07,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC07,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC07,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC07,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC08,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC08,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC08,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC08,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC08,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC08,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC08,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC08,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC08,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC08,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC08,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC08,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC08,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC08,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC08,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC08,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC08,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC09,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC09,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC09,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC09,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC09,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC09,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC09,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC09,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC09,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC09,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC09,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC09,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC09,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC09,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC09,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC09,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC09,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC10,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC10,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC10,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC10,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC10,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC10,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC10,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC10,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC10,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC10,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC10,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC10,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC10,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC10,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC10,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC10,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC10,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC11,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC11,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC11,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC11,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC11,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC11,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC11,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC11,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC11,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC11,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC11,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC11,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC11,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC11,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC11,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC11,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC11,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC12,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC12,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC12,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC12,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC12,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC12,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC12,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC12,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC12,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC12,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC12,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC12,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC12,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC12,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC12,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC12,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC12,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC13,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC13,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC13,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC13,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC13,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC13,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC13,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC13,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC13,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC13,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC13,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC13,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC13,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC13,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC13,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC13,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC13,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC14,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC14,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC14,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC14,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC14,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC14,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC14,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC14,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC14,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC14,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC14,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC14,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC14,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC14,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC14,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC14,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC14,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC15,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC15,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC15,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC15,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC15,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC15,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC15,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC15,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC15,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC15,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC15,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC15,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC15,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC15,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC15,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC15,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC15,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC16,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC16,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC16,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC16,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC16,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC16,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC16,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC16,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC16,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC16,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC16,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC16,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC16,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC16,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC16,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC16,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC16,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC17,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC17,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC17,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC17,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC17,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC17,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC17,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC17,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC17,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC17,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC17,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC17,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC17,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC17,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC17,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC17,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC17,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC18,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC18,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC18,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC18,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC18,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC18,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC18,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC18,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC18,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC18,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC18,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC18,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC18,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC18,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC18,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC18,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC18,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC19,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC19,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC19,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC19,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC19,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC19,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC19,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC19,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC19,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC19,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC19,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC19,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC19,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC19,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC19,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC19,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC19,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC20,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC20,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC20,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC20,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC20,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC20,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC20,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC20,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC20,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC20,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC20,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC20,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC20,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC20,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC20,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC20,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC20,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC21,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC21,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC21,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC21,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC21,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC21,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC21,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC21,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC21,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC21,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC21,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC21,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC21,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC21,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC21,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC21,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC21,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC22,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC22,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC22,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC22,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC22,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC22,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC22,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC22,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC22,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC22,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC22,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC22,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC22,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC22,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC22,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC22,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC22,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC23,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC23,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC23,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC23,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC23,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC23,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC23,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC23,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC23,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC23,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC23,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC23,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC23,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC23,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC23,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC23,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC23,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC24,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC24,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC24,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC24,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC24,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC24,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC24,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC24,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC24,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC24,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC24,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC24,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC24,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC24,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC24,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC24,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC24,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC25,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC25,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC25,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC25,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC25,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC25,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC25,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC25,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC25,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC25,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC25,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC25,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC25,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC25,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC25,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC25,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC25,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC26,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC26,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC26,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC26,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC26,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC26,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC26,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC26,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC26,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC26,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC26,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC26,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC26,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC26,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC26,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC26,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC26,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC27,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC27,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC27,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC27,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC27,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC27,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC27,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC27,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC27,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC27,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC27,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC27,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC27,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC27,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC27,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC27,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC27,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC28,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC28,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC28,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC28,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC28,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC28,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC28,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC28,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC28,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC28,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC28,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC28,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC28,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC28,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC28,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC28,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC28,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC29,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC29,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC29,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC29,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC29,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC29,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC29,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC29,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC29,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC29,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC29,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC29,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC29,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC29,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC29,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC29,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC29,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC30,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC30,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC30,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC30,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC30,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC30,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC30,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC30,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC30,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC30,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC30,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC30,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC30,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC30,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC30,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC30,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC30,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC31,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC31,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC31,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC31,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC31,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC31,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC31,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC31,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC31,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC31,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC31,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC31,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC31,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC31,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC31,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC31,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC31,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC32,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC32,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC32,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC32,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC32,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC32,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC32,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC32,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC32,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC32,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC32,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC32,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC32,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC32,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC32,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC32,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC32,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC33,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC33,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC33,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC33,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC33,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC33,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC33,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC33,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC33,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC33,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC33,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC33,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC33,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC33,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC33,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC33,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC33,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC34,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC34,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC34,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC34,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC34,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC34,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC34,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC34,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC34,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC34,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC34,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC34,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC34,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC34,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC34,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC34,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC34,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC35,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC35,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC35,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC35,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC35,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC35,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC35,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC35,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC35,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC35,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC35,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC35,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC35,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC35,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC35,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC35,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC35,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC36,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC36,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC36,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC36,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC36,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,A,
+SEC36,Mon,10:11,Mon_10_11,A001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,A,4
+SEC36,Mon,11:12,Mon_11_12,A002,"Chem",TBD,"TBD",Classroom_02,Classroom,THEORY,A,3
+SEC36,Mon,12:01,Mon_12_01,A003,"Eng.",TBD,"TBD",Classroom_03,Classroom,THEORY,A,2
+SEC36,Mon,02:03,Mon_02_03,A004,"B. Etc.",TBD,"TBD",Classroom_04,Classroom,THEORY,A,2
+SEC36,Mon,03:04,Mon_03_04,A005,"E.Mech",TBD,"TBD",Classroom_05,Classroom,THEORY,A,2
+SEC36,Tue,10:11,Tue_10_11,A006,"BEE",TBD,"TBD",Classroom_06,Classroom,THEORY,A,2
+SEC36,Tue,11:12,Tue_11_12,A007,"  BEtc ./E.Mech. Lab",TBD,"TBD",Lab_07,Lab,LAB,A,1
+SEC36,Tue,12:01,Tue_12_01,A008,"Engg. Lab",TBD,"TBD",Lab_08,Lab,LAB,A,1
+SEC36,Tue,02:03,Tue_02_03,A009,"Workshop",TBD,"TBD",Lab_09,Lab,LAB,A,1
+SEC36,Tue,03:04,Tue_03_04,A010,"SY",TBD,"TBD",Lab_10,Lab,LAB,A,1
+SEC36,Wed,10:11,Wed_10_11,A011,"Comm. Lab",TBD,"TBD",Lab_01,Lab,LAB,A,1
+SEC36,Wed,11:12,Wed_11_12,A012,"Chem. Lab",TBD,"TBD",Lab_02,Lab,LAB,A,1
+SEC37,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC37,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC37,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC37,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC37,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC37,Mon,10:11,Mon_10_11,B001,"T&NM",T135,"Prof_BJ",Classroom_01,Classroom,THEORY,B,4
+SEC37,Mon,11:12,Mon_11_12,B002,"Phy.",T100,"Prof_A",Classroom_02,Classroom,THEORY,B,3
+SEC37,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T105,"Prof_F",Classroom_03,Classroom,THEORY,B,2
+SEC37,Mon,02:03,Mon_02_03,B004,"EVS",T135,"Prof_BJ",Classroom_04,Classroom,THEORY,B,2
+SEC37,Mon,03:04,Mon_03_04,B005," Phy. Lab",T181,"Prof_DD",Lab_05,Lab,LAB,B,1
+SEC37,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T138,"Prof_BM",Lab_06,Lab,LAB,B,1
+SEC37,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",T113,"Prof_N",Lab_07,Lab,LAB,B,2
+SEC38,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC38,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC38,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC38,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC38,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC38,Mon,10:11,Mon_10_11,B001,"T&NM",T182,"Prof_DE",Classroom_01,Classroom,THEORY,B,4
+SEC38,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC38,Mon,12:01,Mon_12_01,B003,"Sc.LS.",T131,"Prof_BF",Classroom_03,Classroom,THEORY,B,2
+SEC38,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC38,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC38,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T184,"Prof_DG",Lab_06,Lab,LAB,B,1
+SEC38,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",T163,"Prof_CL",Lab_07,Lab,LAB,B,2
+SEC39,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC39,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC39,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC39,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC39,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC39,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC39,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC39,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC39,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC39,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC39,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",T189,"Prof_DL",Lab_06,Lab,LAB,B,1
+SEC39,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC40,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC40,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC40,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC40,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC40,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC40,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC40,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC40,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC40,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC40,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC40,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC40,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC41,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC41,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC41,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC41,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC41,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC41,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC41,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC41,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC41,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC41,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC41,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC41,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC42,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC42,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC42,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC42,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC42,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC42,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC42,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC42,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC42,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC42,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC42,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC42,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC43,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC43,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC43,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC43,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC43,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC43,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC43,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC43,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC43,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC43,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC43,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC43,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC44,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC44,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC44,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC44,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC44,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC44,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC44,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC44,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC44,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC44,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC44,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC44,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC45,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC45,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC45,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC45,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC45,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC45,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC45,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC45,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC45,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC45,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC45,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC45,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC46,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC46,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC46,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC46,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC46,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC46,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC46,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC46,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC46,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC46,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC46,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC46,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC47,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC47,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC47,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC47,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC47,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC47,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC47,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC47,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC47,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC47,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC47,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC47,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC48,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC48,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC48,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC48,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC48,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC48,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC48,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC48,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC48,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC48,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC48,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC48,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC49,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC49,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC49,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC49,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC49,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC49,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC49,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC49,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC49,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC49,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC49,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC49,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC50,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC50,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC50,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC50,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC50,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC50,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC50,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC50,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC50,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC50,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC50,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC50,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC51,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC51,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC51,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC51,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC51,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC51,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC51,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC51,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC51,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC51,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC51,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC51,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC52,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC52,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC52,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC52,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC52,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC52,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC52,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC52,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC52,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC52,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC52,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC52,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC53,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC53,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC53,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC53,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC53,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC53,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC53,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC53,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC53,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC53,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC53,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC53,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC54,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC54,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC54,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC54,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC54,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC54,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC54,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC54,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC54,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC54,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC54,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC54,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC55,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC55,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC55,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC55,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC55,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC55,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC55,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC55,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC55,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC55,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC55,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC55,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC56,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC56,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC56,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC56,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC56,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC56,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC56,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC56,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC56,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC56,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC56,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC56,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC57,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC57,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC57,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC57,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC57,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC57,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC57,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC57,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC57,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC57,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC57,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC57,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC58,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC58,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC58,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC58,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC58,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC58,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC58,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC58,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC58,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC58,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC58,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC58,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC59,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC59,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC59,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC59,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC59,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC59,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC59,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC59,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC59,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC59,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC59,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC59,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC60,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC60,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC60,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC60,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC60,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC60,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC60,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC60,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC60,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC60,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC60,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC60,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC61,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC61,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC61,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC61,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC61,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC61,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC61,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC61,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC61,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC61,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC61,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC61,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC62,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC62,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC62,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC62,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC62,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC62,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC62,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC62,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC62,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC62,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC62,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC62,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC63,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC63,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC63,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC63,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC63,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC63,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC63,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC63,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC63,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC63,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC63,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC63,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC64,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC64,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC64,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC64,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC64,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC64,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC64,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC64,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC64,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC64,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC64,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC64,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC65,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC65,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC65,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC65,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC65,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC65,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC65,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC65,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC65,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC65,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC65,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC65,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC66,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC66,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC66,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC66,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC66,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC66,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC66,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC66,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC66,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC66,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC66,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC66,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC67,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC67,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC67,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC67,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC67,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC67,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC67,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC67,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC67,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC67,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC67,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC67,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC68,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC68,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC68,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC68,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC68,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC68,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC68,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC68,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC68,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC68,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC68,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC68,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC69,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC69,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC69,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC69,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC69,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC69,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC69,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC69,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC69,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC69,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC69,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC69,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC70,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC70,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC70,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC70,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC70,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC70,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC70,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC70,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC70,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC70,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC70,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC70,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC71,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC71,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC71,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC71,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC71,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC71,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC71,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC71,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC71,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC71,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC71,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC71,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
+SEC72,Mon,09:10,Mon_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC72,Tue,09:10,Tue_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC72,Wed,09:10,Wed_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC72,Thu,09:10,Thu_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC72,Fri,09:10,Fri_09_10,ELECTIVE,"Elective",TBD,"TBD",TBD,Classroom,Elective,B,
+SEC72,Mon,10:11,Mon_10_11,B001,"T&NM",TBD,"TBD",Classroom_01,Classroom,THEORY,B,4
+SEC72,Mon,11:12,Mon_11_12,B002,"Phy.",TBD,"TBD",Classroom_02,Classroom,THEORY,B,3
+SEC72,Mon,12:01,Mon_12_01,B003,"Sc.LS.",TBD,"TBD",Classroom_03,Classroom,THEORY,B,2
+SEC72,Mon,02:03,Mon_02_03,B004,"EVS",TBD,"TBD",Classroom_04,Classroom,THEORY,B,2
+SEC72,Mon,03:04,Mon_03_04,B005," Phy. Lab",TBD,"TBD",Lab_05,Lab,LAB,B,1
+SEC72,Tue,10:11,Tue_10_11,B006,"ED&Graphics.",TBD,"TBD",Lab_06,Lab,LAB,B,1
+SEC72,Tue,11:12,Tue_11_12,B007,"PL(T) & Prog. Lab",TBD,"TBD",Lab_07,Lab,LAB,B,2
