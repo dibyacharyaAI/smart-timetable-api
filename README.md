@@ -1,11 +1,11 @@
-✅ 📘 README.md Content
-# 📘 Smart Timetable API
+
+Smart Timetable API
 
 This project provides a Flask-based API for generating and serving academic timetables using a trained autoencoder model.
 
 ---
 
-## 📂 Project Structure
+##Project Structure
 
 smart_timetable/
 │
@@ -28,46 +28,57 @@ smart_timetable/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
 ```bash
+📦 Setup Instructions
+1. Clone the repo
+
 git clone https://github.com/dibyacharyaAI/smart-timetable-api.git
-cd smart_timetable
-2. Setup Virtual Environment
+cd smart_timetable-api
+2. Create a virtual environment
+
 python3 -m venv venv
 source venv/bin/activate
-3. Install Dependencies
+3. Install dependencies
+
 pip install -r requirements.txt
-🧠 Model Info
+4. Run the API
 
-Uses an Autoencoder-based model trained on encoded timetable sequences
-Pretrained weights loaded from: smart_timetable_model.json
-The model is loaded automatically when the Flask app starts
-🧪 API Endpoints
+python api_server.py
+🔌 API Endpoints
+Base URL: http://localhost:5001/api
 
-✅ Health
+Method	Endpoint	Description
+GET	/timetable	Full timetable
+GET	/timetable/section/<SECTION_ID>	Timetable for a section (e.g. SEC01)
+GET	/timetable/day/<DAY_INDEX>	Timetable for a day (0=Mon)
+GET	/teacher/<TEACHER_ID>	Timetable for a teacher
+GET	/status	Model & schedule status
+POST	/regenerate	Trigger regeneration of timetable
+
+ Health
 GET /api/status
-📅 Full Timetable
+ Full Timetable
 GET /api/timetable
-📘 Timetable by Section
+ Timetable by Section
 GET /api/timetable/section/<SECTION_ID>
-📆 Timetable by Day
+ Timetable by Day
 GET /api/timetable/day/<DAY_NUMBER>
-👨‍🏫 Teacher Timetable
+ Teacher Timetable
 GET /api/teacher/<TEACHER_ID>
-🔁 Regenerate Timetable
+ Regenerate Timetable
 POST /api/regenerate
-⚠️ Notes
+⚠ Notes
 
 Streamlit-related warnings like missing ScriptRunContext are harmless in bare execution mode.
 Avoid pushing venv/ or large .dylib files to GitHub – they exceed size limits.
-👨‍💻 Maintainer
+ Maintainer
+
+
 
 Dibyakanta Acharya
 
 
----
-
-Aap `README.md` file khud se `nano README.md` ya kisi editor (VS Code, Sublime) mein create karke ye paste kar dein. Agar chaho to `README.md` ka downloadable file bhi generate karwa sakta hoon – batayein. ​:contentReference[oaicite:0]{index=0}​
