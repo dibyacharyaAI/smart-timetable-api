@@ -47,6 +47,17 @@ source venv/bin/activate
 pip install -r requirements.txt
 4. Run the API
 
+Since your project includes uv.lock, it seems you're using uv.
+
+To install with uv:
+
+pip install uv  # if not installed
+uv pip install -r requirements.txt
+Or, if using pyproject.toml only:
+
+uv venv
+uv pip install .
+
 python api_server.py
 🔌 API Endpoints
 Base URL: http://localhost:5001/api
